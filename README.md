@@ -2,6 +2,7 @@
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
 * [AppOpenSource](#Open_App)
+* [Git](#Git_learning)
 
 ---
 ## <a id="Swift_learning"></a>Swift
@@ -20,3 +21,11 @@
 名称 | 功能简介
 ------- | -------
 [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps/tree/5e7def7a8f070800ea586a90e5981bece9b67611) | 上架的开源App源码
+
+
+## <a id="Git_learning"></a>Git
+名称 | 功能简介
+------- | -------
+[gitignore](https://github.com/github/gitignore) | .gitignore 文件。这样，不必要的文件（用户设置，临时文件这些）都不会放进你的仓库里面。Github 已经给了我们 Objective-C 和 Swift 语言的模板
+
+
