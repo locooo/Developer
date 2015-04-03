@@ -36,8 +36,7 @@
 * [其它相关](#related_others)
 
 
-## <a id="#swift_learning"></a>Swift学习
-
+## <a id="swift_learning"></a>Swift学习
 库名称 | 功能简介
 ------- | -------
 [SwiftGuide](https://github.com/ipader/SwiftGuide) | 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排
