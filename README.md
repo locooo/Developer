@@ -1,10 +1,10 @@
 ## 目录
-* [Swift](#swift_learning)
-* [OC](#swift_learning)
+* [Swift](#Swift_learning)
+* [OC](#OC_learning)
 
 
 ---
-## <a id="swift_learning"></a>Swift
+## <a id="Swift_learning"></a>Swift
 库名称 | 功能简介
 ------- | -------
 [SwiftGuide](https://github.com/ipader/SwiftGuide) | 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排
