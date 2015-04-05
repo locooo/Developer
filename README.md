@@ -20,6 +20,7 @@
 ------- | -------
 [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) | 包括学习视频,个人博客,社区等
 [DateTools](https://github.com/MatthewYork/DateTools) | 关于日期的计算
+[POViewFrameBuilder](https://github.com/podio/ios-view-frame-builder) | 是一组UIView的Category和帮助类，可以大大方便在代码中操纵UIView的frame，节省不必要的麻烦计算
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
 
 
