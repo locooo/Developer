@@ -30,6 +30,7 @@
 名称 | 功能简介
 ------- | -------
 [chisel](https://github.com/facebook/chisel) | FaceBook lldb调试插件
+[Provisioning](Provisioning) |真机调试出问题了可以使用参看具体原因
 
 
 ## <a id="Open_App"></a>AppOpenSource
