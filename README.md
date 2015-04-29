@@ -1,6 +1,7 @@
 ## 目录
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
+* [Tools](#Open_Tools)
 * [AppOpenSource](#Open_App)
 * [Git](#Git_learning)
 
@@ -24,6 +25,11 @@
 [IOS-Categories](https://github.com/shaojiankui/IOS-Categories) | 收集了许多有助于开发的IOS扩展
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
 
+
+## <a id="Open_Tools"></a>OpenTools
+名称 | 功能简介
+------- | -------
+[chisel](https://github.com/facebook/chisel) | FaceBook lldb调试插件
 
 
 ## <a id="Open_App"></a>AppOpenSource
