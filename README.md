@@ -1,6 +1,7 @@
 ## 目录
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
+* [CoreData](#Locooo_CoreData)
 * [Tools](#Open_Tools)
 * [AppOpenSource](#Open_App)
 * [Git](#Git_learning)
@@ -24,6 +25,13 @@
 [POViewFrameBuilder](https://github.com/podio/ios-view-frame-builder) | 是一组UIView的Category和帮助类，可以大大方便在代码中操纵UIView的frame，节省不必要的麻烦计算
 [IOS-Categories](https://github.com/shaojiankui/IOS-Categories) | 收集了许多有助于开发的IOS扩展
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
+
+
+## <a id="Locooo_CoreData"></a>LocoooCoreData
+库名称 | 功能简介
+------- | -------
+[MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | CoreData增删改查
+[mogenerator](https://github.com/rentzsch/mogenerator) | 生成NSManagedObject类,灵活性比Xcode自带的好
 
 
 ## <a id="Open_Tools"></a>OpenTools
