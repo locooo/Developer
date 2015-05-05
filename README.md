@@ -27,7 +27,7 @@
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
 
 
-## <a id="Locooo_CoreData"></a>LocoooCoreData
+## <a id="Locooo_CoreData"></a>CoreData
 库名称 | 功能简介
 ------- | -------
 [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | CoreData增删改查
