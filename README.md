@@ -21,8 +21,10 @@
 库名称 | 功能简介
 ------- | -------
 [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) | 包括学习视频,个人博客,社区等
+[awesome-ios](https://github.com/vsouza/awesome-ios) | 一些牛牛好用的库
 [DateTools](https://github.com/MatthewYork/DateTools) | 关于日期的计算
 [POViewFrameBuilder](https://github.com/podio/ios-view-frame-builder) | 是一组UIView的Category和帮助类，可以大大方便在代码中操纵UIView的frame，节省不必要的麻烦计算
+[ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) | 获取用户权限 获取相册,位置等等权限的提示封装
 [IOS-Categories](https://github.com/shaojiankui/IOS-Categories) | 收集了许多有助于开发的IOS扩展
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
 
