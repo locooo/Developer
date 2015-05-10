@@ -28,6 +28,8 @@
 [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) | 获取用户权限 获取相册,位置等等权限的提示封装
 [IOS-Categories](https://github.com/shaojiankui/IOS-Categories) | 收集了许多有助于开发的IOS扩展
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
+[VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) |Button的特效动画
+[KVNProgress](https://github.com/kevin-hirsch/KVNProgress) | 类似HUD
 
 
 ## <a id="Locooo_CoreData"></a>CoreData
