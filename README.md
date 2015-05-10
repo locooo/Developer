@@ -1,6 +1,7 @@
 ## 目录
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
+* [IWatch](#Apple Watch)
 * [CoreData](#Locooo_CoreData)
 * [Tools](#Open_Tools)
 * [AppOpenSource](#Open_App)
@@ -30,8 +31,18 @@
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
 [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) |Button的特效动画
 [KVNProgress](https://github.com/kevin-hirsch/KVNProgress) | 类似HUD
+[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 聊天界面模板
+[VENTouchLock](https://github.com/venmo/VENTouchLock) | Touch ID的使用
 
 
+
+## <a id="Apple Watch"></a>IWatch
+库名称 | 功能简介
+------- | -------
+[MMWormhole](https://github.com/mutualmobile/MMWormhole) | Iphone IWatch之间通信
+ 
+ 
+ 
 ## <a id="Locooo_CoreData"></a>CoreData
 库名称 | 功能简介
 ------- | -------
