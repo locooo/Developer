@@ -35,7 +35,8 @@
 [VENTouchLock](https://github.com/venmo/VENTouchLock) | Touch ID的使用
 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) | AsyncDisplayKit包括一些强力的组件：ASDisplayNode. UIView的副本 —一个子类，用来自定义node。ASControlNode. 类似于UIControl —用来制作按钮的子类。ASImageNode. 类似于UIImageView —异步的解码图像资源。ASTextNode. 类似于UITextView — 基于TextKit构建，支持富文本的全部特性。ASTableView. UITableView子类，用于支持node。
 [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) | 一个好玩的下拉刷新动画 可自定义同类型
-
+[Onboard](https://github.com/mamaral/Onboard) | 引导页面
+[LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明 
 
 
 
