@@ -33,6 +33,14 @@
 [KVNProgress](https://github.com/kevin-hirsch/KVNProgress) | 类似HUD
 [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 聊天界面模板
 [VENTouchLock](https://github.com/venmo/VENTouchLock) | Touch ID的使用
+[AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) | AsyncDisplayKit包括一些强力的组件：
+·  ASDisplayNode. UIView的副本 —一个子类，用来自定义node。
+·  ASControlNode. 类似于UIControl —用来制作按钮的子类。
+·  ASImageNode. 类似于UIImageView —异步的解码图像资源。
+·  ASTextNode. 类似于UITextView — 基于TextKit构建，支持富文本的全部特性。
+·  ASTableView. UITableView子类，用于支持node。
+
+
 
 
 
