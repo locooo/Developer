@@ -30,6 +30,7 @@
 [IOS-Categories](https://github.com/shaojiankui/IOS-Categories) | 收集了许多有助于开发的IOS扩展
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
 [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) |Button的特效动画
+[JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) | 一个简单动画的封装
 [KVNProgress](https://github.com/kevin-hirsch/KVNProgress) | 类似HUD
 [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 聊天界面模板
 [VENTouchLock](https://github.com/venmo/VENTouchLock) | Touch ID的使用
