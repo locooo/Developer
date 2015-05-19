@@ -29,6 +29,7 @@
 [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions) | 获取用户权限 获取相册,位置等等权限的提示封装
 [IOS-Categories](https://github.com/shaojiankui/IOS-Categories) | 收集了许多有助于开发的IOS扩展
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) | 私有API
+[JRSwizzle](https://github.com/rentzsch/jrswizzle)|objective-c方法分为方法名(selector)和方法实现(IMP)两部分,当调用方法时,Objective-C运行时根据selecotr去找匹配的实现代码,MethodSwizzling是一种在运行时修改方法名与方法实现映射关系的技术,常用于在系统内部方法的基础上增加新的处理流程
 [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) |Button的特效动画
 [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) | 一个简单动画的封装
 [KVNProgress](https://github.com/kevin-hirsch/KVNProgress) | 类似HUD
