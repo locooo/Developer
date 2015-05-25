@@ -39,7 +39,15 @@
 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) | AsyncDisplayKit包括一些强力的组件：ASDisplayNode. UIView的副本 —一个子类，用来自定义node。ASControlNode. 类似于UIControl —用来制作按钮的子类。ASImageNode. 类似于UIImageView —异步的解码图像资源。ASTextNode. 类似于UITextView — 基于TextKit构建，支持富文本的全部特性。ASTableView. UITableView子类，用于支持node。
 [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) | 一个好玩的下拉刷新动画 可自定义同类型
 [Onboard](https://github.com/mamaral/Onboard) | 引导页面
+[FXBlurView](https://github.com/nicklockwood/FXBlurView) | 模糊效果
+[GPUImage](https://github.com/BradLarson/GPUImage)|它利用GPU，使在图片和视频上应用不同的效果和滤镜变得非常的容易，同时它还拥有出色的性能，并且它的性能要比苹果内置的相关APIs出色
 [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明 
+[DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) | 豆瓣的开源软件，DOUAudioStreamer 是 iOS 和 Mac 的基于核心音频的流媒体音频播放器
+[GTMNSString-HTML](https://github.com/siriusdely/GTMNSString-HTML) | 谷歌开源的用于过滤HTML标签
+[https://github.com/nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel)|iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图）
+[JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification)|在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器
+[NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | NJKWebViewProgress 是一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
+[sskeychain](https://github.com/soffes/sskeychain)|SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置
 
 
 
