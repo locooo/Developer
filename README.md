@@ -50,6 +50,8 @@
 [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | NJKWebViewProgress 是一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
 [sskeychain](https://github.com/soffes/sskeychain)|SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置
 [Vitamio-iOS](https://github.com/yixia/Vitamio-iOS)|支持各种格式的视频播放,支持本地和链接
+[awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)|动画和过渡-圆形小标签-波纹效果-AlterView相近的提示等-引导页-照片和视频-进度显示(HUD类似组件)-刷新控件-侧菜单-Tab Bars-Table/CollectionViews(一定有你想要的)-用户输入
+
 
 
 
