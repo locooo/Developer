@@ -49,6 +49,7 @@
 [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification)|在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器
 [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | NJKWebViewProgress 是一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
 [sskeychain](https://github.com/soffes/sskeychain)|SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置
+[Vitamio-iOS](https://github.com/yixia/Vitamio-iOS)|支持各种格式的视频播放,支持本地和链接
 
 
 
