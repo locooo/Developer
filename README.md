@@ -51,6 +51,8 @@
 [sskeychain](https://github.com/soffes/sskeychain)|SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置
 [Vitamio-iOS](https://github.com/yixia/Vitamio-iOS)|支持各种格式的视频播放,支持本地和链接
 [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)|动画和过渡-圆形小标签-波纹效果-AlterView相近的提示等-引导页-照片和视频-进度显示(HUD类似组件)-刷新控件-侧菜单-Tab Bars-Table/CollectionViews(一定有你想要的)-用户输入
+[PSCollectionView](https://github.com/ptshih/PSCollectionView)|一个能够实现Pinterest风格的瀑布流视图显示效果的iOS滚动组件，可用于类似的UITableView，支持显示图片和文字
+[RestKit](https://github.com/RestKit/RestKit)|Restkit是一个主要用于iOS上网络通信的开源Objective-C框架，除了发送请求、接受响应这些基本功能外，还附带Core Data，以及将远程JSON映射为本地对象的功能
 
 
 
