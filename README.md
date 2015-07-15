@@ -57,6 +57,7 @@
 [iCarousel](https://github.com/nicklockwood/iCarousel) | 3D的纸片旋转等效果(A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS)
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | RAC编程
 [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|强大的Log(相应的还有[NSLogger](https://github.com/fpillet/NSLogger)可以让你方便的查看APP产生的日志(支持分级筛选等等 甚至可以直接log一张图片)
+[Mantle](https://github.com/Mantle/Mantle)|Model framework for Cocoa and Cocoa Touch
 
 
 
@@ -75,6 +76,7 @@
 ------- | -------
 [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | CoreData增删改查
 [mogenerator](https://github.com/rentzsch/mogenerator) | 生成NSManagedObject类,灵活性比Xcode自带的好
+[realm](https://github.com/realm/realm-cocoa)|(CoreDate||SQLite)Realm is a mobile database: a replacement for Core Data & SQLite
 
 
 ## <a id="Open_Tools"></a>OpenTools
