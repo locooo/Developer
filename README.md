@@ -82,6 +82,7 @@
 ## <a id="Open_Tools"></a>OpenTools
 名称 | 功能简介
 ------- | -------
+[Carthage](https://github.com/Carthage/Carthage)|类似[CocoaPods](https://github.com/CocoaPods/CocoaPods)的类库依赖管理
 [chisel](https://github.com/facebook/chisel) | FaceBook lldb调试插件
 [Provisioning](Provisioning) |真机调试出问题了可以使用参看具体原因
 [UIViewController+Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) | 接手新项目还在一个个找界面相对应的ViewController么 试试这个吧
