@@ -56,7 +56,7 @@
 [RestKit](https://github.com/RestKit/RestKit)|Restkit是一个主要用于iOS上网络通信的开源Objective-C框架，除了发送请求、接受响应这些基本功能外，还附带Core Data，以及将远程JSON映射为本地对象的功能
 [iCarousel](https://github.com/nicklockwood/iCarousel) | 3D的纸片旋转等效果(A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS)
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | RAC编程
-[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|强大的Log(相应的还有[NSLogger](https://github.com/fpillet/NSLogger))
+[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|强大的Log(相应的还有[NSLogger](https://github.com/fpillet/NSLogger)可以让你方便的查看APP产生的日志(支持分级筛选等等 甚至可以直接log一张图片
 
 
 
