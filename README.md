@@ -15,6 +15,7 @@
 [Transporter](https://github.com/nghialv/Transporter) | 短小、精悍、易用的多文件（并发或顺序）上传和下载传输库。还支持后台运行、传输进程跟踪、暂停/续传/取消/重试控制等功能
 [ShapeAnimation-Swift](https://github.com/rhcad/ShapeAnimation-Swift) | Swift  Layer动画
 [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) | iOS8的一些Demo
+[Kingfisher](https://github.com/onevcat/Kingfisher) |Swift版的SDWebImage
 
 
 
@@ -53,6 +54,10 @@
 [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)|动画和过渡-圆形小标签-波纹效果-AlterView相近的提示等-引导页-照片和视频-进度显示(HUD类似组件)-刷新控件-侧菜单-Tab Bars-Table/CollectionViews(一定有你想要的)-用户输入
 [PSCollectionView](https://github.com/ptshih/PSCollectionView)|一个能够实现Pinterest风格的瀑布流视图显示效果的iOS滚动组件，可用于类似的UITableView，支持显示图片和文字
 [RestKit](https://github.com/RestKit/RestKit)|Restkit是一个主要用于iOS上网络通信的开源Objective-C框架，除了发送请求、接受响应这些基本功能外，还附带Core Data，以及将远程JSON映射为本地对象的功能
+[iCarousel](https://github.com/nicklockwood/iCarousel) | 3D的纸片旋转等效果(A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS)
+[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | RAC编程
+[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|强大的Log(相应的还有[NSLogger](https://github.com/fpillet/NSLogger))
+
 
 
 
