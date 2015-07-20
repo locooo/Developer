@@ -3,7 +3,7 @@
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
 * [IWatch](#Apple Watch)
-* [CoreData](#Locooo_CoreData)
+* [CoreDataAndSQLite](#Locooo_CoreDataAndSQLite)
 * [Tools](#Open_Tools)
 * [AppOpenSource](#Open_App)
 * [Git](#Git_learning)
@@ -83,12 +83,13 @@
  
  
  
-## <a id="Locooo_CoreData"></a>CoreData
+## <a id="Locooo_CoreDataAndSQLite"></a>CoreDataAndSQLite
 库名称 | 功能简介
 ------- | -------
 [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | CoreData增删改查
 [mogenerator](https://github.com/rentzsch/mogenerator) | 生成NSManagedObject类,灵活性比Xcode自带的好
 [realm](https://github.com/realm/realm-cocoa)|(CoreDate||SQLite)Realm is a mobile database: a replacement for Core Data & SQLite
+[fmdb](https://github.com/ccgus/fmdb)|SQLite使用封装(A Cocoa / Objective-C wrapper around SQLite)
 
 
 ## <a id="Open_Tools"></a>OpenTools
