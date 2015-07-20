@@ -9,7 +9,7 @@
 * [Git](#Git_learning)
 
 ---
-## <a id="#Collection_webs"></a>Collection
+## <a id="#Collection_webs"></a>Webs
 地址 | 简介
 ------- | -------
 [manong](https://github.com/nemoTyrant/manong)| 码农周刊整理
