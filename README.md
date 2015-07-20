@@ -1,5 +1,5 @@
 ## 目录
-* [Webs](#Collection_webs)
+* [Webs](#Webs_Collection)
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
 * [IWatch](#Apple Watch)
@@ -9,7 +9,7 @@
 * [Git](#Git_learning)
 
 ---
-## <a id="#Collection_webs"></a>Webs
+## <a id="#Webs_Collection"></a>Webs
 地址 | 简介
 ------- | -------
 [manong](https://github.com/nemoTyrant/manong)| 码农周刊整理
