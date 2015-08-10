@@ -70,6 +70,7 @@
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | RAC编程
 [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|强大的Log(相应的还有[NSLogger](https://github.com/fpillet/NSLogger)可以让你方便的查看APP产生的日志(支持分级筛选等等 甚至可以直接log一张图片)
 [Mantle](https://github.com/Mantle/Mantle)|Model framework for Cocoa and Cocoa Touch
+[WZLBadge](https://github.com/weng1250/WZLBadge)|推送“小红点”
 
 
 
