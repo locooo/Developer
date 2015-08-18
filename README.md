@@ -73,6 +73,7 @@
 [WZLBadge](https://github.com/weng1250/WZLBadge)|推送“小红点”
 [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|与web交互的库
 [SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ)|仿QQ侧滑
+[BlocksKit](https://github.com/zwaldowski/BlocksKit)|使用Bolck更简单
 
 
 
