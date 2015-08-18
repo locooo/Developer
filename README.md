@@ -72,6 +72,7 @@
 [Mantle](https://github.com/Mantle/Mantle)|Model framework for Cocoa and Cocoa Touch
 [WZLBadge](https://github.com/weng1250/WZLBadge)|推送“小红点”
 [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|与web交互的库
+[SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ)|仿QQ侧滑
 
 
 
