@@ -79,6 +79,7 @@
 [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer)|豆瓣音频的流媒体音频播放器
 [FXBlurView](https://github.com/nicklockwood/FXBlurView)|模糊背景
 [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification)|电池栏显示颜色背景和文字
+[CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)|一个支持从 App 状态栏处以优雅的动画效果弹出文字通知的库
 [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)|webView加载进度
 
 
