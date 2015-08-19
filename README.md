@@ -81,6 +81,7 @@
 [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification)|电池栏显示颜色背景和文字
 [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)|一个支持从 App 状态栏处以优雅的动画效果弹出文字通知的库
 [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)|webView加载进度
+[合集](https://github.com/iamdaiyuan/ios_top_1000)|1000 个 iOS 常用的库
 
 
 
