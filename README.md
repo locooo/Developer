@@ -58,7 +58,7 @@
 [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明 
 [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) | 豆瓣的开源软件，DOUAudioStreamer 是 iOS 和 Mac 的基于核心音频的流媒体音频播放器
 [GTMNSString-HTML](https://github.com/siriusdely/GTMNSString-HTML) | 谷歌开源的用于过滤HTML标签
-[https://github.com/nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel)|iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图）
+[iCarousel](https://github.com/nicklockwood/iCarousel)|iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图）
 [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification)|在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器
 [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) | NJKWebViewProgress 是一个 UIWebView 的进度条接口库,UIWebView 本身是不提供进度条的。
 [sskeychain](https://github.com/soffes/sskeychain)|SSKeyChains对苹果安全框架API进行了简单封装,支持对存储在钥匙串中密码、账户进行访问,包括读取、删除和设置
@@ -76,6 +76,11 @@
 [BlocksKit](https://github.com/zwaldowski/BlocksKit)|使用Bolck更简单
 [ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl/tree/master/ODRefreshControl)|如同系统自带的刷新框架,弹性小球
 [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) |视频播放器
+[DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer)|豆瓣音频的流媒体音频播放器
+[FXBlurView](https://github.com/nicklockwood/FXBlurView)|模糊背景
+[JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification)|电池栏显示颜色背景和文字
+[NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)|webView加载进度
+
 
 
 
