@@ -25,6 +25,7 @@
 库名称 | 功能简介
 ------- | -------
 [SwiftGuide](https://github.com/ipader/SwiftGuide) | 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排
+[MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning)|一步一步学Swift
 [Transporter](https://github.com/nghialv/Transporter) | 短小、精悍、易用的多文件（并发或顺序）上传和下载传输库。还支持后台运行、传输进程跟踪、暂停/续传/取消/重试控制等功能
 [ShapeAnimation-Swift](https://github.com/rhcad/ShapeAnimation-Swift) | Swift  Layer动画
 [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) | iOS8的一些Demo
