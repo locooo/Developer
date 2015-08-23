@@ -14,6 +14,7 @@
 ------- | -------
 [manong](https://github.com/nemoTyrant/manong)| 码农周刊整理
 [iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier)|开发技术前线 iOS项目
+[TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)|他人整理的一些iOS,Mac开源项目及库
 
 
 
@@ -126,5 +127,4 @@
 名称 | 功能简介
 ------- | -------
 [gitignore](https://github.com/github/gitignore) | .gitignore 文件。这样，不必要的文件（用户设置，临时文件这些）都不会放进你的仓库里面。Github 已经给了我们 Objective-C 和 Swift 语言的模板
-
 
