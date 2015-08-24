@@ -87,6 +87,7 @@
 [合集](https://github.com/iamdaiyuan/ios_top_1000)|1000 个 iOS 常用的库
 [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)|适合用来处理空的table view和collection 显示消息和按钮,事件 
 [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)|日历
+[RETableViewManager](https://github.com/romaonthego/RETableViewManager)|RETableViewManager可以帮助你进行动态创建与管理table views。它给我们提供了预定义cells（bool类型、文本、日期等等——请看下面的截图），但是你还可以创建自定义views，并与默认视图一同使用
 
 
 
