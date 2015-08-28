@@ -89,6 +89,7 @@
 [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)|日历
 [RETableViewManager](https://github.com/romaonthego/RETableViewManager)|RETableViewManager可以帮助你进行动态创建与管理table views。它给我们提供了预定义cells（bool类型、文本、日期等等——请看下面的截图），但是你还可以创建自定义views，并与默认视图一同使用
 [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker)|自动监听键盘高度
+[UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation)|比上面轻量级一些
 
 
 
