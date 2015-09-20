@@ -32,6 +32,7 @@
 [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) | iOS8的一些Demo
 [Kingfisher](https://github.com/onevcat/Kingfisher) |Swift版的SDWebImage
 [BubbleTransition](https://github.com/andreamazz/BubbleTransition)|present和dismiss转场动画
+[Nuke](https://github.com/kean/Nuke)|图片管理类库。可定制装载，缓存，滤镜及尺寸变换
 
 
 
