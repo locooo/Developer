@@ -90,6 +90,7 @@
 [RETableViewManager](https://github.com/romaonthego/RETableViewManager)|RETableViewManager可以帮助你进行动态创建与管理table views。它给我们提供了预定义cells（bool类型、文本、日期等等——请看下面的截图），但是你还可以创建自定义views，并与默认视图一同使用
 [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker)|自动监听键盘高度
 [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation)|比上面轻量级一些
+[LNPopupController](https://github.com/LeoNatan/LNPopupController)|呈现视图控制器为其他视图控制器弹出窗口，很像苹果的音乐和播客的应用程序的框架
 
 
 
