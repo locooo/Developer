@@ -31,6 +31,7 @@
 [ShapeAnimation-Swift](https://github.com/rhcad/ShapeAnimation-Swift) | Swift  Layer动画
 [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) | iOS8的一些Demo
 [Kingfisher](https://github.com/onevcat/Kingfisher) |Swift版的SDWebImage
+[BubbleTransition](https://github.com/andreamazz/BubbleTransition)|present和dismiss转场动画
 
 
 
@@ -92,6 +93,8 @@
 [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation)|比上面轻量级一些
 [LNPopupController](https://github.com/LeoNatan/LNPopupController)|呈现视图控制器为其他视图控制器弹出窗口，很像苹果的音乐和播客的应用程序的框架
 [DKNightVersion](https://github.com/Draveness/DKNightVersion)|app夜间/白天模式
+[ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)|各种label文字动态效果
+[RDVTabBarController](RDVTabBarController)|可以有推送红点的TabBarController
 
 
 
