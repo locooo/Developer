@@ -100,6 +100,7 @@
 [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler)|iOS9Demo
 [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|Scoket通信
 [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS)| Google的一些设计,iOS实现
+[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)|(一些漂亮的等待动画)
 
 
 
