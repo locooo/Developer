@@ -33,6 +33,7 @@
 [Kingfisher](https://github.com/onevcat/Kingfisher) |Swift版的SDWebImage
 [BubbleTransition](https://github.com/andreamazz/BubbleTransition)|present和dismiss转场动画
 [Nuke](https://github.com/kean/Nuke)|图片管理类库。可定制装载，缓存，滤镜及尺寸变换
+[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)|扩展实现 UILabel 触控事件针对
 
 
 
@@ -101,6 +102,7 @@
 [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|Scoket通信
 [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS)| Google的一些设计,iOS实现
 [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)|(一些漂亮的等待动画)
+[MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager)|此下载管理器使用NSURLSessionx下载。支持同时下载多个文件。支持下载大型文件，如果应用程序是在后台和断点下载。
 
 
 
