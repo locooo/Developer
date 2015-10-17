@@ -34,6 +34,9 @@
 [BubbleTransition](https://github.com/andreamazz/BubbleTransition)|present和dismiss转场动画
 [Nuke](https://github.com/kean/Nuke)|图片管理类库。可定制装载，缓存，滤镜及尺寸变换
 [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)|扩展实现 UILabel 触控事件针对
+[CVCalendar](https://github.com/Mozharovsky/CVCalendar) | 日历控件 iOS8+
+[Eureka](https://github.com/xmartlabs/Eureka)|构建复杂表单的库
+
 
 
 
@@ -134,12 +137,17 @@
 [chisel](https://github.com/facebook/chisel) | FaceBook lldb调试插件
 [Provisioning](Provisioning) |真机调试出问题了可以使用参看具体原因
 [UIViewController+Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) | 接手新项目还在一个个找界面相对应的ViewController么 试试这个吧
-
+[SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) | 模拟器使用3D Touch
+[FDStackView](https://github.com/forkingdog/FDStackView)| 可将UIStackView兼容到iOS的工具
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
 ------- | -------
 [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps/tree/5e7def7a8f070800ea586a90e5981bece9b67611) | 上架的开源App源码
+[v2ex](https://github.com/singro/v2ex)|完整的V2EX iOS客户端 (OC)
+[Coding-iPad](https://coding.net/u/coding/p/Coding-iPad)|Coding-iPad客户端代码(Swift2.0)
+[MyOne-iOS](https://github.com/ihappyhacking/MyOne-iOS)| 文章类(OC)
+[Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)|电台应用(Swift2.0)
 
 
 
