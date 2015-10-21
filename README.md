@@ -118,6 +118,8 @@ Core Data支持：以对象映射层为基础，RestKit提供了与Apple的Core 
 [JSPatch](https://github.com/bang590/JSPatch)| 使用Objective-C运行时桥接Objective-C和Javascript。你可以只包括一个此库,就可以通过JavaScript调用Objective-C中的任何类和方法。 JSPatch一般用于动态修复iOS应用程序
 [JBChartView](https://github.com/Jawbone/JBChartView)| 基于iOS的用于线路和条形图的图表库。
 [ios-charts](https://github.com/danielgindi/ios-charts)| 一个美丽MPAndroidChart的IOS版本.- 用于iOS应用的美丽图表！
+[PromiseKit](https://github.com/mxcl/PromiseKit)|iOS 开发异步功能
+[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)|含有许多工具套件，以在iOS上显示进度信息
 
 
 
