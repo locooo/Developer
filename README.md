@@ -115,6 +115,8 @@
 [ios-charts](https://github.com/danielgindi/ios-charts)| 一个美丽MPAndroidChart的IOS版本.- 用于iOS应用的美丽图表！
 [PromiseKit](https://github.com/mxcl/PromiseKit)|iOS 开发异步功能
 [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)|含有许多工具套件，以在iOS上显示进度信息
+[LLRiseTabBar](https://github.com/NoCodeNoWife/LLRiseTabBar-iOS)|中间是突出按钮的TabBar
+
 
 
 
@@ -150,6 +152,7 @@
 [UIViewController+Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) | 接手新项目还在一个个找界面相对应的ViewController么 试试这个吧
 [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) | 模拟器使用3D Touch
 [FDStackView](https://github.com/forkingdog/FDStackView)| 可将UIStackView兼容到iOS的工具
+[ViewMonitor](https://github.com/daisuke0131/ViewMonitor)|像素测量工具
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
@@ -160,6 +163,7 @@
 [MyOne-iOS](https://github.com/ihappyhacking/MyOne-iOS)| 文章类(OC)
 [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)|电台应用(Swift2.0)
 [MrCode](https://github.com/haolloyin/MrCode)|github iOS应用
+[MeituanDemo](https://github.com/zangqilong198812/MeituanDemo)|仿美团Demo(OC)
 
 
 
