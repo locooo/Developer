@@ -108,12 +108,7 @@
 [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS)| Google的一些设计,iOS实现
 [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)|(一些漂亮的等待动画)
 [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager)|此下载管理器使用NSURLSessionx下载。支持同时下载多个文件。支持下载大型文件，如果应用程序是在后台和断点下载。
-[RestKit](https://github.com/RestKit/RestKit)|(简单高层次的HTTP请求/响应系统：RestKit在NSURLConnection的基础上建立了HTTP客户端，并且提供了一个有效方法库来检测MIME类型和状态码。同时让提交表单数据变得更简单，且一个本地参数对象还能够轻松地创建多部分提交。
-框架支持切换服务器以及环境：RestKit使用基本的URL和资源路径，而不是完整的URL，让你可以快速地切换目标服务器。让插值URL字符串和构建NSURL对象成为了过去式。
-Core Data支持：以对象映射层为基础，RestKit提供了与Apple的Core Data集成框架，用来扩展远程资源映射到本地的对象。还提供一个很好地基于Core Data原语的API，用来简化配置和查询用例。
-对象映射系统：RestKit提供了一个建模层，有利于将映射进程数据负载到原生Cocoa对象声明方式中去。这样，程序员就不用担心解析的问题，只需简单的请求框架，异步获取远程资源以及调用委托结果即可。对象映射使用的是键值编码来实现的，允许快速遍历解析后的对象图。反射是用在属性类型上，以便将远程日期编码映射为字符串返回到NSDate对象。
-生成数据库文件：当使用Core Data对象存储时，你可以从数据文件集合中生成一个数据库文件。这样，你就可以将你的应用以及数据库的应用程序包提交到App Store中，并且可以达到立即使用的效果。
-可插入解析层：RestKit目前通过SBJSON和YAJL解析器支持JSON。解析是在一个简单接口背后实现的，允许额外的数据格式进行透明处理。)
+[RestKit](https://github.com/RestKit/RestKit)|(1.简单高层次的HTTP请求/响应系统：RestKit在NSURLConnection的基础上建立HTTP客户端，并且提供了一个有效方法库来检测MIME类型和状态码。同时让提交表单数据变得更简单，且一个本地参数对象还能够轻松地创建多部分提交。2.框架支持切换服务器以及环境：RestKit使用基本的URL和资源路径，而不是完整的URL，让你可以快速地切换目标服务器。让插值URL字符串和构建NSURL对象成为了过去式。3.Core Data支持：以对象映射层为基础，RestKit提供了与Apple的Core Data集成框架，用来扩展远程资源映射到本地的对象。还提供一个很好地基于Core Data原语的API，用来简化配置和查询用例。4.对象映射系统：RestKit提供了一个建模层，有利于将映射进程数据负载到原生Cocoa对象声明方式中去。这样，程序员就不用担心解析的问题，只需简单的请求框架，异步获取远程资源以及调用委托结果即可。对象映射使用的是键值编码来实现的，允许快速遍历解析后的对象图。反射是用在属性类型上，以便将远程日期编码映射为字符串返回到NSDate对象。5.生成数据库文件：当使用Core Data对象存储时，你可以从数据文件集合中生成一个数据库文件。这样，你就可以将你的应用以及数据库的应用程序包提交到App Store中，并且可以达到立即使用的效果。6.可插入解析层：RestKit目前通过SBJSON和YAJL解析器支持JSON。解析是在一个简单接口背后实现的，允许额外的数据格式进行透明处理。)
 [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore)|使得使用钥匙串的API一样容易的NSUserDefaults(类似的[Valet](https://github.com/square/Valet))
 [JSPatch](https://github.com/bang590/JSPatch)| 使用Objective-C运行时桥接Objective-C和Javascript。你可以只包括一个此库,就可以通过JavaScript调用Objective-C中的任何类和方法。 JSPatch一般用于动态修复iOS应用程序
 [JBChartView](https://github.com/Jawbone/JBChartView)| 基于iOS的用于线路和条形图的图表库。
