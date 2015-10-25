@@ -16,6 +16,7 @@
 [manong](https://github.com/nemoTyrant/manong)| 码农周刊整理
 [iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier)|开发技术前线 iOS项目
 [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)|他人整理的一些iOS,Mac开源项目及库
+[http://www.ioscookies.com/](http://www.ioscookies.com/) |外国友人纯手动整理的 Swift 第三方库集合
 
 
 
@@ -38,7 +39,13 @@
 [Eureka](https://github.com/xmartlabs/Eureka)|构建复杂表单的库
 [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|皮筋弹性下拉刷新控件
 [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| 用于处理Swift中的JSON数据的更好方法
-
+[RxSwift](https://github.com/ReactiveX/RxSwift)|MVVM 类似ReactiveCocoa 不过是Swift版本
+[Neon](https://github.com/mamaral/Neon)|是一个Swift上另辟蹊径的布局库
+[Snapkit](https://github.com/SnapKit/SnapKit)|从OC的 Masonry 演变而来 布局库
+[SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|操作NSUserDefaults很麻烦,用它很少代码就可使用
+[LiquidLoader](https://github.com/yoavlt/LiquidLoader)|蛮好看的加载组件
+[Blurable](https://github.com/FlexMonkey/Blurable)|任意View模糊
+[Proposer](https://github.com/nixzhu/Proposer)|它能以单个 API 处理 iOS 上的权限请求
 
 
 
@@ -116,7 +123,9 @@
 [PromiseKit](https://github.com/mxcl/PromiseKit)|iOS 开发异步功能
 [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)|含有许多工具套件，以在iOS上显示进度信息
 [LLRiseTabBar](https://github.com/NoCodeNoWife/LLRiseTabBar-iOS)|中间是突出按钮的TabBar
-
+[BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth)|蓝牙使用
+[STPopup](https://github.com/kevin0571/STPopup)|STPopup 提供了一个可在 iPhone 和 iPad 上使用的具有 UINationController 弹出效果的 STPopupController 类, 并能在 Storyboard 上很好的工作
+[MLInputDodger](https://github.com/molon/MLInputDodger)|耦合度很低通用躲避输入View
 
 
 
@@ -153,6 +162,7 @@
 [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) | 模拟器使用3D Touch
 [FDStackView](https://github.com/forkingdog/FDStackView)| 可将UIStackView兼容到iOS的工具
 [ViewMonitor](https://github.com/daisuke0131/ViewMonitor)|像素测量工具
+[KCMGeigerCounter](https://github.com/kconner/KMCGeigerCounter)|测试界面帧率
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
@@ -164,6 +174,9 @@
 [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)|电台应用(Swift2.0)
 [MrCode](https://github.com/haolloyin/MrCode)|github iOS应用
 [MeituanDemo](https://github.com/zangqilong198812/MeituanDemo)|仿美团Demo(OC)
+[JFMeiTuan](https://github.com/tubie/JFMeiTuan)|仿美团Demo(OC) 
+[NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)|仿知乎日报(Swift2.0)
+[CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode)|动画Demo(OC)
 
 
 
