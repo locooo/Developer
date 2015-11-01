@@ -126,6 +126,8 @@
 [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth)|蓝牙使用
 [STPopup](https://github.com/kevin0571/STPopup)|STPopup 提供了一个可在 iPhone 和 iPad 上使用的具有 UINationController 弹出效果的 STPopupController 类, 并能在 Storyboard 上很好的工作
 [MLInputDodger](https://github.com/molon/MLInputDodger)|耦合度很低通用躲避输入View
+[RxWebViewController](https://github.com/Roxasora/RxWebViewController)|网页加载进度 包括进度条，左滑返回上个网页或者直接关闭
+[CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
 
 
 
@@ -160,7 +162,7 @@
 [Provisioning](Provisioning) |真机调试出问题了可以使用参看具体原因
 [UIViewController+Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled) | 接手新项目还在一个个找界面相对应的ViewController么 试试这个吧
 [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) | 模拟器使用3D Touch
-[FDStackView](https://github.com/forkingdog/FDStackView)| 可将UIStackView兼容到iOS的工具
+[FDStackView](https://github.com/forkingdog/FDStackView)| 可将UIStackView兼容到iOS6
 [ViewMonitor](https://github.com/daisuke0131/ViewMonitor)|像素测量工具
 [KCMGeigerCounter](https://github.com/kconner/KMCGeigerCounter)|测试界面帧率
 
