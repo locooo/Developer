@@ -49,6 +49,9 @@
 [Blurable](https://github.com/FlexMonkey/Blurable)|任意View模糊
 [Proposer](https://github.com/nixzhu/Proposer)|它能以单个 API 处理 iOS 上的权限请求
 [YYWebImage]()|YYWebImage 是一个异步图片加载框架 (YYKit 组件之一).其设计目的是试图替代 SDWebImage、PINRemoteImageFLAnimatedImage 等开源框架，它支持这些开源框架的大部分功能，同时增加了大量新特性、并且有不小的性能提升。实现了 WebP/APNG/GIF 动图的解码和播放。
+[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)|萌萌的按钮动画
+[LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|浮动操作按钮
+
 
 
 
@@ -131,6 +134,9 @@
 [MLInputDodger](https://github.com/molon/MLInputDodger)|耦合度很低通用躲避输入View
 [RxWebViewController](https://github.com/Roxasora/RxWebViewController)|网页加载进度 包括进度条，左滑返回上个网页或者直接关闭
 [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
+[CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|scocket通信
+[TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|轻松创建自动滚动导航栏
+[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|通知圆点(适用于任何View)
 
 
 
@@ -168,6 +174,7 @@
 [FDStackView](https://github.com/forkingdog/FDStackView)| 可将UIStackView兼容到iOS6
 [ViewMonitor](https://github.com/daisuke0131/ViewMonitor)|像素测量工具
 [KCMGeigerCounter](https://github.com/kconner/KMCGeigerCounter)|测试界面帧率
+[injectionforxcode](https://github.com/johnno1962/injectionforxcode)|运行时代码注入的Objective-C和Swift
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
