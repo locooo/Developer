@@ -137,6 +137,8 @@
 [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|scocket通信
 [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|轻松创建自动滚动导航栏
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|通知圆点(适用于任何View)
+[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|Cell侧滑出现多按钮
+
 
 
 
