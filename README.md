@@ -31,6 +31,7 @@
 [Moya](https://github.com/Moya/Moya)|在Alamofire的基础上又封装了一层
 [MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning)|一步一步学Swift
 [Transporter](https://github.com/nghialv/Transporter) | 短小、精悍、易用的多文件（并发或顺序）上传和下载传输库。还支持后台运行、传输进程跟踪、暂停/续传/取消/重试控制等功能
+[ExSwift](https://github.com/pNre/ExSwift)|包含一组标准类型和类的Swift扩展
 [ShapeAnimation-Swift](https://github.com/rhcad/ShapeAnimation-Swift) | Swift  Layer动画
 [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) | iOS8的一些Demo
 [Kingfisher](https://github.com/onevcat/Kingfisher) |Swift版的SDWebImage
@@ -49,8 +50,17 @@
 [Blurable](https://github.com/FlexMonkey/Blurable)|任意View模糊
 [Proposer](https://github.com/nixzhu/Proposer)|它能以单个 API 处理 iOS 上的权限请求
 [YYWebImage]()|YYWebImage 是一个异步图片加载框架 (YYKit 组件之一).其设计目的是试图替代 SDWebImage、PINRemoteImageFLAnimatedImage 等开源框架，它支持这些开源框架的大部分功能，同时增加了大量新特性、并且有不小的性能提升。实现了 WebP/APNG/GIF 动图的解码和播放。
+[Kingfisher](https://github.com/onevcat/Kingfisher)|一个轻量级的缓存图片的框架
 [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)|萌萌的按钮动画
 [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|浮动操作按钮
+[Splitflap](https://github.com/yannickl/Splitflap)|文字翻转效果
+[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)|带动画效果的tabbar
+[APNGKit](https://github.com/onevcat/APNGKit)  支持下载和显示 类似gif的APNG格式的动图,效果显示比gif好 
+[Surge](https://github.com/mattt/Surge)|可以快速处理复杂的数学、语音以及图像信号
+[Dollar.swift](https://github.com/ankurp/Dollar.swift)|提供了有用的函数式编程辅助方法，无需扩展任何内置对象。Dollar类似于Lo-Dash或者Javascript中的Underscore。
+[HanekeSwift)](https://github.com/Haneke/HanekeSwift)|Swift 编写的轻量级 iOS 通用缓存
+[Cartography](https://github.com/robb/Cartography)|autolayout布局 其他几个应该也知道就不提了
+
 
 
 
@@ -138,6 +148,8 @@
 [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|轻松创建自动滚动导航栏
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|通知圆点(适用于任何View)
 [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|Cell侧滑出现多按钮
+[PSCarouselView](https://github.com/DeveloperPans/PSCarouselView)|图片轮播器
+[TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)|躲避键盘遮挡(支持tableView,collectionView，scrollerView)
 
 
 
@@ -177,6 +189,7 @@
 [ViewMonitor](https://github.com/daisuke0131/ViewMonitor)|像素测量工具
 [KCMGeigerCounter](https://github.com/kconner/KMCGeigerCounter)|测试界面帧率
 [injectionforxcode](https://github.com/johnno1962/injectionforxcode)|运行时代码注入的Objective-C和Swift
+[PromiseKit](https://github.com/mxcl/PromiseKit)|简化异步编程支持OC和Swift,类似的有[Bolts-iOS]()
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
@@ -191,6 +204,9 @@
 [JFMeiTuan](https://github.com/tubie/JFMeiTuan)|仿美团Demo(OC) 
 [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)|仿知乎日报(Swift2.0)
 [CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode)|动画Demo(OC)
+[CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus)|CocoaChina客户端(Swift)
+[LGWeChatKit](https://github.com/jamy0801/LGWeChatKit)|仿微信界面(swift)
+[Monkey](https://github.com/coderyi/Monkey)|一个GitHub开发者和仓库排名的开源App
 
 
 
