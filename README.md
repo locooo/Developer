@@ -143,13 +143,16 @@
 [STPopup](https://github.com/kevin0571/STPopup)|STPopup 提供了一个可在 iPhone 和 iPad 上使用的具有 UINationController 弹出效果的 STPopupController 类, 并能在 Storyboard 上很好的工作
 [MLInputDodger](https://github.com/molon/MLInputDodger)|耦合度很低通用躲避输入View
 [RxWebViewController](https://github.com/Roxasora/RxWebViewController)|网页加载进度 包括进度条，左滑返回上个网页或者直接关闭
-[CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
 [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|scocket通信
 [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|轻松创建自动滚动导航栏
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|通知圆点(适用于任何View)
 [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|Cell侧滑出现多按钮
 [PSCarouselView](https://github.com/DeveloperPans/PSCarouselView)|图片轮播器
 [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)|躲避键盘遮挡(支持tableView,collectionView，scrollerView)
+[MMPopupView](https://github.com/adad184/MMPopupView)|弹出框系列
+[CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
+[KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)|带粘性的扇形菜单
+[WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能
 
 
 
