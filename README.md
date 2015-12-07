@@ -55,10 +55,10 @@
 [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|浮动操作按钮
 [Splitflap](https://github.com/yannickl/Splitflap)|文字翻转效果
 [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)|带动画效果的tabbar
-[APNGKit](https://github.com/onevcat/APNGKit)  支持下载和显示 类似gif的APNG格式的动图,效果显示比gif好 
+[APNGKit](https://github.com/onevcat/APNGKit)|支持下载和显示 类似gif的APNG格式的动图,效果显示比gif好 
 [Surge](https://github.com/mattt/Surge)|可以快速处理复杂的数学、语音以及图像信号
 [Dollar.swift](https://github.com/ankurp/Dollar.swift)|提供了有用的函数式编程辅助方法，无需扩展任何内置对象。Dollar类似于Lo-Dash或者Javascript中的Underscore。
-[HanekeSwift)](https://github.com/Haneke/HanekeSwift)|Swift 编写的轻量级 iOS 通用缓存
+[HanekeSwift](https://github.com/Haneke/HanekeSwift)|Swift 编写的轻量级 iOS 通用缓存
 [Cartography](https://github.com/robb/Cartography)|autolayout布局 其他几个应该也知道就不提了
 
 
