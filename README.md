@@ -60,6 +60,9 @@
 [Dollar.swift](https://github.com/ankurp/Dollar.swift)|提供了有用的函数式编程辅助方法，无需扩展任何内置对象。Dollar类似于Lo-Dash或者Javascript中的Underscore。
 [HanekeSwift](https://github.com/Haneke/HanekeSwift)|Swift 编写的轻量级 iOS 通用缓存
 [Cartography](https://github.com/robb/Cartography)|autolayout布局 其他几个应该也知道就不提了
+[Instructions](https://github.com/ephread/Instructions)|app用户指引用
+[MaterialKit](https://github.com/CosmicMind/MaterialKit)| MaterialDesign框架, 拥有多种漂亮的动画效果和样式。view的一个动画 包括imageView Button label等
+[ChineseSubdivisionsPicker](https://github.com/huajiahen/ChineseSubdivisionsPicker)|中国行政区划选择器
 
 
 
@@ -153,7 +156,7 @@
 [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
 [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)|带粘性的扇形菜单
 [WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能
-
+[BlocksKit](https://github.com/zwaldowski/BlocksKit)|给一些类带来了更好的block支持
 
 
 
@@ -193,6 +196,8 @@
 [KCMGeigerCounter](https://github.com/kconner/KMCGeigerCounter)|测试界面帧率
 [injectionforxcode](https://github.com/johnno1962/injectionforxcode)|运行时代码注入的Objective-C和Swift
 [PromiseKit](https://github.com/mxcl/PromiseKit)|简化异步编程支持OC和Swift,类似的有[Bolts-iOS]()
+[R.swift](https://github.com/mac-cain13/R.swift)|获取强类型，如图像字体等资源文件 的加载类似的有[SwiftGen](https://github.com/AliSoftware/SwiftGen)
+[Perfect](https://github.com/PerfectlySoft/Perfect)|用Swift实现的应用服务器，自带 web 开发框架及支持 REST
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
@@ -209,6 +214,7 @@
 [CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode)|动画Demo(OC)
 [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus)|CocoaChina客户端(Swift)
 [LGWeChatKit](https://github.com/jamy0801/LGWeChatKit)|仿微信界面(swift)
+[HPYZhiHuDaily](https://github.com/hshpy/HPYZhiHuDaily)|仿知乎(MVVM架构)(OC)
 [Monkey](https://github.com/coderyi/Monkey)|一个GitHub开发者和仓库排名的开源App
 
 
