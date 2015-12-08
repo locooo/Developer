@@ -157,6 +157,7 @@
 [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)|带粘性的扇形菜单
 [WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能
 [BlocksKit](https://github.com/zwaldowski/BlocksKit)|给一些类带来了更好的block支持
+[TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
 
 
 
