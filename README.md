@@ -16,6 +16,8 @@
 [manong](https://github.com/nemoTyrant/manong)| 码农周刊整理
 [iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier)|开发技术前线 iOS项目
 [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)|他人整理的一些iOS,Mac开源项目及库
+[MyGithubMark](https://github.com/JanzTam/MyGithubMark)|他人整理的
+[iOS和Mac开源资料](http://www.kancloud.cn/digest/ios-mac-study/84572)|他人整理的
 [http://www.ioscookies.com/](http://www.ioscookies.com/) |外国友人纯手动整理的 Swift 第三方库集合
 
 
@@ -63,7 +65,13 @@
 [Instructions](https://github.com/ephread/Instructions)|app用户指引用
 [MaterialKit](https://github.com/CosmicMind/MaterialKit)| MaterialDesign框架, 拥有多种漂亮的动画效果和样式。view的一个动画 包括imageView Button label等
 [ChineseSubdivisionsPicker](https://github.com/huajiahen/ChineseSubdivisionsPicker)|中国行政区划选择器
-
+[CardAnimation](https://github.com/seedante/CardAnimation)|卡片动画
+[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|下拉动画
+[StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)|崩塌为小方块动画效果演示
+[LiquidLoader](https://github.com/yoavlt/LiquidLoader)|粘性的加载动画 
+[EasyAnimation](https://github.com/icanzilb/EasyAnimation)|动画简单使用
+[PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser)|照片浏览器
+[ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController)|类似iMessage的图片选择
 
 
 
@@ -89,6 +97,8 @@
 [VENTouchLock](https://github.com/venmo/VENTouchLock) | Touch ID的使用
 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) | AsyncDisplayKit包括一些强力的组件：ASDisplayNode. UIView的副本 —一个子类，用来自定义node。ASControlNode. 类似于UIControl —用来制作按钮的子类。ASImageNode. 类似于UIImageView —异步的解码图像资源。ASTextNode. 类似于UITextView — 基于TextKit构建，支持富文本的全部特性。ASTableView. UITableView子类，用于支持node。
 [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) | 一个好玩的下拉刷新动画 可自定义同类型
+[ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl/tree/master/ODRefreshControl)|如同系统自带的刷新框架,弹性小球
+[PullToBounce](https://github.com/entotsu/PullToBounce)|类似百度外卖的刷新
 [Onboard](https://github.com/mamaral/Onboard) | 引导页面
 [FXBlurView](https://github.com/nicklockwood/FXBlurView) | 模糊效果
 [GPUImage](https://github.com/BradLarson/GPUImage)|它利用GPU，使在图片和视频上应用不同的效果和滤镜变得非常的容易，同时它还拥有出色的性能，并且它的性能要比苹果内置的相关APIs出色
@@ -111,7 +121,7 @@
 [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|与web交互的库
 [SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ)|仿QQ侧滑
 [BlocksKit](https://github.com/zwaldowski/BlocksKit)|使用Bolck更简单
-[ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl/tree/master/ODRefreshControl)|如同系统自带的刷新框架,弹性小球
+
 [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) |视频播放器
 [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer)|豆瓣音频的流媒体音频播放器
 [FXBlurView](https://github.com/nicklockwood/FXBlurView)|模糊背景
@@ -158,6 +168,10 @@
 [WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能
 [BlocksKit](https://github.com/zwaldowski/BlocksKit)|给一些类带来了更好的block支持
 [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
+[TYAlertController](https://github.com/12207480/TYAlertController)|弹出框 AlterView
+[SwipeView](https://github.com/nicklockwood/SwipeView)|轮播图
+[VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer)|视频播放器
+[JFImagePickerController](https://github.com/johnil/JFImagePickerController)|高性能多选图片库
 
 
 
