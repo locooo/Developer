@@ -172,6 +172,7 @@
 [SwipeView](https://github.com/nicklockwood/SwipeView)|轮播图
 [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer)|视频播放器
 [JFImagePickerController](https://github.com/johnil/JFImagePickerController)|高性能多选图片库
+[LxTabBadgePoint](https://github.com/DeveloperLx/LxTabBadgePoint)|小红点或其它标记的效果。Category写法，无需继承子类
 
 
 
