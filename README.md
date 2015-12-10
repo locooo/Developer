@@ -121,7 +121,6 @@
 [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|与web交互的库
 [SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ)|仿QQ侧滑
 [BlocksKit](https://github.com/zwaldowski/BlocksKit)|使用Bolck更简单
-
 [KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer) |视频播放器
 [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer)|豆瓣音频的流媒体音频播放器
 [FXBlurView](https://github.com/nicklockwood/FXBlurView)|模糊背景
