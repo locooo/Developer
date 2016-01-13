@@ -72,6 +72,8 @@
 [EasyAnimation](https://github.com/icanzilb/EasyAnimation)|动画简单使用
 [PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser)|照片浏览器
 [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController)|类似iMessage的图片选择
+[Locksmith](https://github.com/matthewpalmer/Locksmith)|钥匙串的使用封装
+[TransitionTreasury](https://github.com/DianQK/TransitionTreasury)|Swifi转场动画的封装
 
 
 
@@ -172,6 +174,7 @@
 [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer)|视频播放器
 [JFImagePickerController](https://github.com/johnil/JFImagePickerController)|高性能多选图片库
 [LxTabBadgePoint](https://github.com/DeveloperLx/LxTabBadgePoint)|小红点或其它标记的效果。Category写法，无需继承子类
+[ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList)|一款类似虾米的 iOS 下拉筛选菜单列表
 
 
 
@@ -213,6 +216,7 @@
 [PromiseKit](https://github.com/mxcl/PromiseKit)|简化异步编程支持OC和Swift,类似的有[Bolts-iOS]()
 [R.swift](https://github.com/mac-cain13/R.swift)|获取强类型，如图像字体等资源文件 的加载类似的有[SwiftGen](https://github.com/AliSoftware/SwiftGen)
 [Perfect](https://github.com/PerfectlySoft/Perfect)|用Swift实现的应用服务器，自带 web 开发框架及支持 REST
+[DaiMethodTracing](https://github.com/DaidoujiChen/DaiMethodTracing)|检查⓵传参是不是正确, ⓶返回值是否正确⓷执行时间
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
@@ -230,7 +234,9 @@
 [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus)|CocoaChina客户端(Swift)
 [LGWeChatKit](https://github.com/jamy0801/LGWeChatKit)|仿微信界面(swift)
 [HPYZhiHuDaily](https://github.com/hshpy/HPYZhiHuDaily)|仿知乎(MVVM架构)(OC)
+[beautifulApp](https://github.com/lyimin/beautifulApp)|高仿最美应用(Swift)
 [Monkey](https://github.com/coderyi/Monkey)|一个GitHub开发者和仓库排名的开源App
+[ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)|代码格式化
 
 
 
