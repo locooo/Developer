@@ -16,6 +16,7 @@
 [manong](https://github.com/nemoTyrant/manong)| 码农周刊整理
 [iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier)|开发技术前线 iOS项目
 [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)|他人整理的一些iOS,Mac开源项目及库
+[awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 [MyGithubMark](https://github.com/JanzTam/MyGithubMark)|他人整理的
 [iOS和Mac开源资料](http://www.kancloud.cn/digest/ios-mac-study/84572)|他人整理的
 [http://www.ioscookies.com/](http://www.ioscookies.com/) |外国友人纯手动整理的 Swift 第三方库集合
@@ -74,6 +75,8 @@
 [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController)|类似iMessage的图片选择
 [Locksmith](https://github.com/matthewpalmer/Locksmith)|钥匙串的使用封装
 [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)|Swifi转场动画的封装
+[LBXScan](https://github.com/MxABC/LBXScan)二维码等
+
 
 
 
@@ -177,8 +180,12 @@
 [ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList)|一款类似虾米的 iOS 下拉筛选菜单列表
 [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation)|它允许你在各种情况下动画改变UINavigationBar的backgroundColor。
 [hpple](https://github.com/topfunky/hpple)xml/HTML解析
-
-
+[JazzHands](https://github.com/IFTTT/JazzHands)动画效果的启动页
+[UUDatePicker](https://github.com/CoderXL/UUDatePicker)不错的日期时间插件
+[EAIntroView](https://github.com/ealeksandrov/EAIntroView)引导页
+[DeepLinkKit](https://github.com/usebutton/DeepLinkKit)两个APP跳转的插件
+[FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)加载数据时的动画
+[IAPHelper](https://github.com/saturngod/IAPHelper)app内购
 
 
 
@@ -240,6 +247,7 @@
 [Monkey](https://github.com/coderyi/Monkey)|一个GitHub开发者和仓库排名的开源App
 [ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)|代码格式化
 [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)|基于MVVM和RAC的GitHub第三方开源客户端
+[Yep](https://github.com/CatchChat/Yep)Yep 是一款非常小巧而轻量化的社交 App，围绕「遇见天才」这个主题(Swift)
 
 
 
