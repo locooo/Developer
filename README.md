@@ -137,6 +137,7 @@
 [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)|日历
 [RETableViewManager](https://github.com/romaonthego/RETableViewManager)|RETableViewManager可以帮助你进行动态创建与管理table views。它给我们提供了预定义cells（bool类型、文本、日期等等——请看下面的截图），但是你还可以创建自定义views，并与默认视图一同使用
 [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker)|自动监听键盘高度
+[TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)|躲避键盘遮挡(支持tableView,collectionView，scrollerView)
 [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation)|比上面轻量级一些
 [LNPopupController](https://github.com/LeoNatan/LNPopupController)|呈现视图控制器为其他视图控制器弹出窗口，很像苹果的音乐和播客的应用程序的框架
 [DKNightVersion](https://github.com/Draveness/DKNightVersion)|app夜间/白天模式
@@ -165,7 +166,6 @@
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|通知圆点(适用于任何View)
 [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|Cell侧滑出现多按钮
 [PSCarouselView](https://github.com/DeveloperPans/PSCarouselView)|图片轮播器
-[TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)|躲避键盘遮挡(支持tableView,collectionView，scrollerView)
 [MMPopupView](https://github.com/adad184/MMPopupView)|弹出框系列
 [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
 [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)|带粘性的扇形菜单
