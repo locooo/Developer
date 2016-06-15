@@ -208,6 +208,7 @@
 [mogenerator](https://github.com/rentzsch/mogenerator) | 生成NSManagedObject类,灵活性比Xcode自带的好
 [realm](https://github.com/realm/realm-cocoa)|不仅读取性能更快(据说数倍于CoraData)接口简单易用(以对象的形式使用数据，这点和leancloud的思路很相似) 并且还跨平台(iOS/Android均可使用OC/Swift/Java都支持)如果你习惯使用Mantle之类的Modal转换的话，Realm-JSON肯定能讨你欢心。
 [fmdb](https://github.com/ccgus/fmdb)|SQLite使用封装(A Cocoa / Objective-C wrapper around SQLite)
+[JRDB](https://github.com/scubers/JRDB)|一个对FMDB进行类Hibernate封装的ios库，支持Objective-C 和 Swift
 
 
 ## <a id="Open_Tools"></a>OpenTools
