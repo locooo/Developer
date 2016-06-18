@@ -76,6 +76,7 @@
 [Locksmith](https://github.com/matthewpalmer/Locksmith)|钥匙串的使用封装
 [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)|Swifi转场动画的封装
 [LBXScan](https://github.com/MxABC/LBXScan)|二维码等
+[Spring](https://github.com/MengTo/Spring)|动画的封装,支持Xib和纯代码
 
 
 
@@ -186,6 +187,11 @@
 [DeepLinkKit](https://github.com/usebutton/DeepLinkKit)|两个APP跳转的插件
 [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)|加载数据时的动画
 [IAPHelper](https://github.com/saturngod/IAPHelper)|app内购
+[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|滑动cell出现更多的操作按钮 Both
+[routable-ios](https://github.com/clayallsopp/routable-ios)|应用程序内本地URL路由器，适用于iOS
+[urlmanager](https://github.com/gaosboy/urlmanager)|URL Scheme为基础的NavigationController，让ViewController实现松耦合，不依赖
+[VKMsgSend](https://github.com/Awhisper/VKMsgSend)|用起来很像performselector,但是完全没有参数个数限制，以及参数id类型限制，（任意类型 struct int bool），功能上很像运行时Objc_msgSend，但是在64位上无需强制类型转换，可以直接输入参数
+[VTMagic](https://github.com/tianzhuo112/VTMagic) | 菜单分页组件
 
 
 
