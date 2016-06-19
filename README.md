@@ -192,6 +192,7 @@
 [urlmanager](https://github.com/gaosboy/urlmanager)|URL Scheme为基础的NavigationController，让ViewController实现松耦合，不依赖
 [VKMsgSend](https://github.com/Awhisper/VKMsgSend)|用起来很像performselector,但是完全没有参数个数限制，以及参数id类型限制，（任意类型 struct int bool），功能上很像运行时Objc_msgSend，但是在64位上无需强制类型转换，可以直接输入参数
 [VTMagic](https://github.com/tianzhuo112/VTMagic) | 菜单分页组件
+[AppDevKit](https://github.com/yahoo/AppDevKit) | yahoo开源的一些工具
 
 
 
