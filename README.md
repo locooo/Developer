@@ -20,6 +20,7 @@
 [MyGithubMark](https://github.com/JanzTam/MyGithubMark)| 他人整理的
 [iOS和Mac开源资料](http://www.kancloud.cn/digest/ios-mac-study/84572) | 他人整理的
 [http://www.ioscookies.com/](http://www.ioscookies.com/) | 外国友人纯手动整理的 Swift 第三方库集合
+[http://iosdevelopertips.com/]|(http://iosdevelopertips.com/)|iOS开发相关教程和技巧
 
 
 
@@ -77,6 +78,7 @@
 [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)|Swifi转场动画的封装
 [LBXScan](https://github.com/MxABC/LBXScan)|二维码等
 [Spring](https://github.com/MengTo/Spring)|动画的封装,支持Xib和纯代码
+[VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary)|利用iOS 7 的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果
 
 
 
@@ -193,6 +195,8 @@
 [VKMsgSend](https://github.com/Awhisper/VKMsgSend)|用起来很像performselector,但是完全没有参数个数限制，以及参数id类型限制，（任意类型 struct int bool），功能上很像运行时Objc_msgSend，但是在64位上无需强制类型转换，可以直接输入参数
 [VTMagic](https://github.com/tianzhuo112/VTMagic) | 菜单分页组件
 [AppDevKit](https://github.com/yahoo/AppDevKit) | yahoo开源的一些工具
+[CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)|悬停的CollectionHead
+[JKCategories](https://github.com/shaojiankui/JKCategories)|各种Category
 
 
 
