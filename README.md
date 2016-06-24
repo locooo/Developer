@@ -197,6 +197,7 @@
 [AppDevKit](https://github.com/yahoo/AppDevKit) | yahoo开源的一些工具
 [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)|悬停的CollectionHead
 [JKCategories](https://github.com/shaojiankui/JKCategories)|各种Category
+[JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)|显示FPS状态在iOS状态栏
 
 
 
