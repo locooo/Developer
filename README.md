@@ -198,6 +198,7 @@
 [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)|悬停的CollectionHead
 [JKCategories](https://github.com/shaojiankui/JKCategories)|各种Category
 [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)|显示FPS状态在iOS状态栏
+[IBAnimatable](https://github.com/JakeLin/IBAnimatable)|是一个帮助我们在 Interface Builder 和 Swift Playground里面设计 UI, 交互, 导航模式, 换场和动画的开源库
 
 
 
