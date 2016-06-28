@@ -21,6 +21,7 @@
 [iOS和Mac开源资料](http://www.kancloud.cn/digest/ios-mac-study/84572) | 他人整理的
 [http://www.ioscookies.com/](http://www.ioscookies.com/) | 外国友人纯手动整理的 Swift 第三方库集合
 [http://iosdevelopertips.com/]|(http://iosdevelopertips.com/)|iOS开发相关教程和技巧
+[iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)|百度Hi团队 iOS 技术周报
 
 
 
