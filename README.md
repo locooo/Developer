@@ -112,6 +112,7 @@
 [FXBlurView](https://github.com/nicklockwood/FXBlurView) | 模糊效果
 [GPUImage](https://github.com/BradLarson/GPUImage)|它利用GPU，使在图片和视频上应用不同的效果和滤镜变得非常的容易，同时它还拥有出色的性能，并且它的性能要比苹果内置的相关APIs出色
 [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明 
+[TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|能隐藏的NavigationBar
 [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) | 豆瓣的开源软件，DOUAudioStreamer 是 iOS 和 Mac 的基于核心音频的流媒体音频播放器
 [GTMNSString-HTML](https://github.com/siriusdely/GTMNSString-HTML) | 谷歌开源的用于过滤HTML标签
 [iCarousel](https://github.com/nicklockwood/iCarousel)|iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图）
@@ -169,11 +170,13 @@
 [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|轻松创建自动滚动导航栏
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|通知圆点(适用于任何View)
 [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|Cell侧滑出现多按钮
+[SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)|划动侧边展开按钮的Cell
 [PSCarouselView](https://github.com/DeveloperPans/PSCarouselView)|图片轮播器
 [MMPopupView](https://github.com/adad184/MMPopupView)|弹出框系列
 [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
-[KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)|带粘性的扇形菜单
 [WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能
+[KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)|带粘性的扇形菜单
+[CRToast](https://github.com/cruffenach/CRToast)|NavigationBar和StatusBar上的warning，多种动画和方向
 [BlocksKit](https://github.com/zwaldowski/BlocksKit)|给一些类带来了更好的block支持
 [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
 [TYAlertController](https://github.com/12207480/TYAlertController)|弹出框 AlterView
@@ -200,6 +203,8 @@
 [JKCategories](https://github.com/shaojiankui/JKCategories)|各种Category
 [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)|显示FPS状态在iOS状态栏
 [IBAnimatable](https://github.com/JakeLin/IBAnimatable)|是一个帮助我们在 Interface Builder 和 Swift Playground里面设计 UI, 交互, 导航模式, 换场和动画的开源库
+[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
+[IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser)|图片查看器
 
 
 
