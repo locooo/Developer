@@ -115,6 +115,7 @@
 [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明 
 [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|能隐藏的NavigationBar
 [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) | 豆瓣的开源软件，DOUAudioStreamer 是 iOS 和 Mac 的基于核心音频的流媒体音频播放器
+[novocaine](https://github.com/alexbw/novocaine) | 应用于OSX和iOS的高性能音频框架
 [GTMNSString-HTML](https://github.com/siriusdely/GTMNSString-HTML) | 谷歌开源的用于过滤HTML标签
 [iCarousel](https://github.com/nicklockwood/iCarousel)|iCarousel是一个类，它继承于UIView。用于简化实现各种类型的旋转木马(分页滚动视图）
 [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification)|在状态栏顶部显示通知。可以自定义颜色字体以及动画。支持进度显示以及显示状态指示器
