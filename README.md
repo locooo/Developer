@@ -20,7 +20,7 @@
 [MyGithubMark](https://github.com/JanzTam/MyGithubMark)| 他人整理的
 [iOS和Mac开源资料](http://www.kancloud.cn/digest/ios-mac-study/84572) | 他人整理的
 [http://www.ioscookies.com/](http://www.ioscookies.com/) | 外国友人纯手动整理的 Swift 第三方库集合
-[http://iosdevelopertips.com/]|(http://iosdevelopertips.com/)|iOS开发相关教程和技巧
+[http://iosdevelopertips.com/](http://iosdevelopertips.com/)|iOS开发相关教程和技巧
 [iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)|百度Hi团队 iOS 技术周报
 
 
@@ -80,6 +80,7 @@
 [LBXScan](https://github.com/MxABC/LBXScan)|二维码等
 [Spring](https://github.com/MengTo/Spring)|动画的封装,支持Xib和纯代码
 [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary)|利用iOS 7 的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果
+[folding-cell](https://github.com/Ramotion/folding-cell)|可折叠的TableviewCell
 
 
 
@@ -101,6 +102,7 @@
 [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) |Button的特效动画
 [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) | 一个简单动画的封装
 [KVNProgress](https://github.com/kevin-hirsch/KVNProgress) | 类似HUD
+[SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)|可定制化的等待提示器
 [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner) | 几个iOS加载动画
 [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 聊天界面模板
 [VENTouchLock](https://github.com/venmo/VENTouchLock) | Touch ID的使用
@@ -109,7 +111,6 @@
 [ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl/tree/master/ODRefreshControl)|如同系统自带的刷新框架,弹性小球
 [PullToBounce](https://github.com/entotsu/PullToBounce)|类似百度外卖的刷新
 [Onboard](https://github.com/mamaral/Onboard) | 引导页面
-[FXBlurView](https://github.com/nicklockwood/FXBlurView) | 模糊效果
 [GPUImage](https://github.com/BradLarson/GPUImage)|它利用GPU，使在图片和视频上应用不同的效果和滤镜变得非常的容易，同时它还拥有出色的性能，并且它的性能要比苹果内置的相关APIs出色
 [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明 
 [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|能隐藏的NavigationBar
@@ -181,6 +182,7 @@
 [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
 [TYAlertController](https://github.com/12207480/TYAlertController)|弹出框 AlterView
 [SwipeView](https://github.com/nicklockwood/SwipeView)|轮播图
+[SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)|轮播图
 [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer)|视频播放器
 [JFImagePickerController](https://github.com/johnil/JFImagePickerController)|高性能多选图片库
 [LxTabBadgePoint](https://github.com/DeveloperLx/LxTabBadgePoint)|小红点或其它标记的效果。Category写法，无需继承子类
@@ -200,11 +202,14 @@
 [VTMagic](https://github.com/tianzhuo112/VTMagic) | 菜单分页组件
 [AppDevKit](https://github.com/yahoo/AppDevKit) | yahoo开源的一些工具
 [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)|悬停的CollectionHead
+[CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|UICollectionView 瀑布流
 [JKCategories](https://github.com/shaojiankui/JKCategories)|各种Category
-[JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)|显示FPS状态在iOS状态栏
+
 [IBAnimatable](https://github.com/JakeLin/IBAnimatable)|是一个帮助我们在 Interface Builder 和 Swift Playground里面设计 UI, 交互, 导航模式, 换场和动画的开源库
 [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
 [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser)|图片查看器
+[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|图片查看器
+
 
 
 
@@ -246,6 +251,7 @@
 [R.swift](https://github.com/mac-cain13/R.swift)|获取强类型，如图像字体等资源文件 的加载类似的有[SwiftGen](https://github.com/AliSoftware/SwiftGen)
 [Perfect](https://github.com/PerfectlySoft/Perfect)|用Swift实现的应用服务器，自带 web 开发框架及支持 REST
 [DaiMethodTracing](https://github.com/DaidoujiChen/DaiMethodTracing)|检查⓵传参是不是正确, ⓶返回值是否正确⓷执行时间
+[JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)|显示FPS状态在iOS状态栏
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
