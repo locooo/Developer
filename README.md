@@ -210,6 +210,7 @@
 [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
 [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser)|图片查看器
 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|图片查看器
+[PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于 iOS 的音视频播放器 SDK，可高度定制化和二次开发，特色是支持 RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 
 
 
