@@ -205,12 +205,11 @@
 [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)|悬停的CollectionHead
 [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|UICollectionView 瀑布流
 [JKCategories](https://github.com/shaojiankui/JKCategories)|各种Category
-
 [IBAnimatable](https://github.com/JakeLin/IBAnimatable)|是一个帮助我们在 Interface Builder 和 Swift Playground里面设计 UI, 交互, 导航模式, 换场和动画的开源库
 [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
 [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser)|图片查看器
 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|图片查看器
-[PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于 iOS 的音视频播放器 SDK，可高度定制化和二次开发，特色是支持 RTMP, HTTP-FLV 和 HLS 直播流媒体播放
+[PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于iOS的音视频播放器SDK可高度定制化和二次开发,支持RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 
 
 
