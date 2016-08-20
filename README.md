@@ -173,6 +173,8 @@
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|通知圆点(适用于任何View)
 [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|Cell侧滑出现多按钮
 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)|划动侧边展开按钮的Cell
+[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|滑动cell出现更多的操作按钮 Both
+[ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView)|可展开的TableViewCell
 [PSCarouselView](https://github.com/DeveloperPans/PSCarouselView)|图片轮播器
 [MMPopupView](https://github.com/adad184/MMPopupView)|弹出框系列
 [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
@@ -196,7 +198,6 @@
 [DeepLinkKit](https://github.com/usebutton/DeepLinkKit)|两个APP跳转的插件
 [FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)|加载数据时的动画
 [IAPHelper](https://github.com/saturngod/IAPHelper)|app内购
-[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|滑动cell出现更多的操作按钮 Both
 [routable-ios](https://github.com/clayallsopp/routable-ios)|应用程序内本地URL路由器，适用于iOS
 [urlmanager](https://github.com/gaosboy/urlmanager)|URL Scheme为基础的NavigationController，让ViewController实现松耦合，不依赖
 [VKMsgSend](https://github.com/Awhisper/VKMsgSend)|用起来很像performselector,但是完全没有参数个数限制，以及参数id类型限制，（任意类型 struct int bool），功能上很像运行时Objc_msgSend，但是在64位上无需强制类型转换，可以直接输入参数
@@ -211,6 +212,7 @@
 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|图片查看器
 [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于iOS的音视频播放器SDK可高度定制化和二次开发,支持RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|导航栏转场以及当push或者pop的时候使动画效果更加顺滑的通用库,并且同时支持竖屏和横屏
+
 
 
 
