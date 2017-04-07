@@ -147,6 +147,7 @@
 [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)|躲避键盘遮挡(支持tableView,collectionView，scrollerView)
 [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation)|比上面轻量级一些
 [LNPopupController](https://github.com/LeoNatan/LNPopupController)|呈现视图控制器为其他视图控制器弹出窗口，很像苹果的音乐和播客的应用程序的框架
+[ios-custom-alertview](https://github.com/wimagguc/ios-custom-alertview)|自定义AlterView 可以加入自定义的View
 [DKNightVersion](https://github.com/Draveness/DKNightVersion)|app夜间/白天模式
 [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)|各种label文字动态效果
 [RDVTabBarController](RDVTabBarController)|可以有推送红点的TabBarController
