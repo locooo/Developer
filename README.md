@@ -2,7 +2,7 @@
 * [Webs](#Webs_Collection)
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
-* [IWatch](#Apple Watch)
+* [IWatch](#Apple_Watch)
 * [DataStore](#Locooo_dataStore)
 * [Tools](#Open_Tools)
 * [AppOpenSource](#Open_App)
@@ -147,6 +147,7 @@
 [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)|躲避键盘遮挡(支持tableView,collectionView，scrollerView)
 [UIViewController-KeyboardAnimation](https://github.com/Just-/UIViewController-KeyboardAnimation)|比上面轻量级一些
 [LNPopupController](https://github.com/LeoNatan/LNPopupController)|呈现视图控制器为其他视图控制器弹出窗口，很像苹果的音乐和播客的应用程序的框架
+[ios-custom-alertview](https://github.com/wimagguc/ios-custom-alertview)|自定义AlterView 可以加入自定义的View
 [DKNightVersion](https://github.com/Draveness/DKNightVersion)|app夜间/白天模式
 [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)|各种label文字动态效果
 [RDVTabBarController](RDVTabBarController)|可以有推送红点的TabBarController
@@ -200,6 +201,7 @@
 [IAPHelper](https://github.com/saturngod/IAPHelper)|app内购
 [routable-ios](https://github.com/clayallsopp/routable-ios)|应用程序内本地URL路由器，适用于iOS
 [urlmanager](https://github.com/gaosboy/urlmanager)|URL Scheme为基础的NavigationController，让ViewController实现松耦合，不依赖
+[JLRoutes](https://github.com/joeldev/JLRoutes)|同上URL路由器
 [VKMsgSend](https://github.com/Awhisper/VKMsgSend)|用起来很像performselector,但是完全没有参数个数限制，以及参数id类型限制，（任意类型 struct int bool），功能上很像运行时Objc_msgSend，但是在64位上无需强制类型转换，可以直接输入参数
 [VTMagic](https://github.com/tianzhuo112/VTMagic) | 菜单分页组件
 [AppDevKit](https://github.com/yahoo/AppDevKit) | yahoo开源的一些工具
@@ -223,7 +225,7 @@
 
 
 
-## <a id="Apple Watch"></a>IWatch
+## <a id="Apple_Watch"></a>IWatch
 库名称 | 功能简介
 ------- | -------
 [MMWormhole](https://github.com/mutualmobile/MMWormhole) | Iphone IWatch之间通信
