@@ -89,8 +89,6 @@
 
 
 ## <a id="OC_learning"></a>OC
-
-
 #### <a id="弹出框OC"></a>1.1 弹出框
 库名称 | 功能简介
 ------- | -------
@@ -99,7 +97,7 @@
 [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
 ***
 
-##### <a id="其他OC"></a>1.2 其他
+#### <a id="其他OC"></a>1.2 其他
 库名称 | 功能简介
 ------- | -------
 [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) | 包括学习视频,个人博客,社区等
