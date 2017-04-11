@@ -5,7 +5,7 @@
   * [1.2 刷新和更多](#刷新和更多Swift)
   * [1.3 网络层和数据层](#网络层和数据层Swift)
   * [1.4 UI布局](#UI布局Swift)
-  * [1.4 其他](#其他Swift)
+  * [1.5 其他](#其他Swift)
 * [OC](#OC_learning)
   * [1.1 弹出框](#弹出框OC)
   * [1.2 刷新和更多](#刷新和更多OC)
@@ -61,7 +61,7 @@
 [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| 用于处理Swift中的JSON数据的更好方法
 
 
-#### <a id="UI布局Swift"></a>1.4 UI布局
+#### <a id="UI布局Swift"></a>1.5 UI布局
 库名称 | 功能简介
 ------- | -------
 [Snapkit](https://github.com/SnapKit/SnapKit)|从OC的 Masonry演变而来
