@@ -89,6 +89,17 @@
 
 
 ## <a id="OC_learning"></a>OC
+
+
+##### <a id="弹出框OC"></a>1.1 弹出框
+库名称 | 功能简介
+------- | -------
+[TBAlertController](https://github.com/ThePantsThief/TBAlertController)|UIAlertController, UIAlertView, and UIActionSheet支出iOS7
+[GJAlertController](https://github.com/GJGroup/GJAlertController)| 同上
+[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
+***
+
+##### <a id="其他OC"></a>1.2 其他
 库名称 | 功能简介
 ------- | -------
 [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) | 包括学习视频,个人博客,社区等
@@ -216,15 +227,6 @@
 [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于iOS的音视频播放器SDK可高度定制化和二次开发,支持RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|导航栏转场以及当push或者pop的时候使动画效果更加顺滑的通用库,并且同时支持竖屏和横屏
 ***
-
-##### <a id="弹出框OC"></a>1.1 弹出框
-库名称 | 功能简介
-------- | -------
-[TBAlertController](https://github.com/ThePantsThief/TBAlertController)|UIAlertController, UIAlertView, and UIActionSheet支出iOS7
-[GJAlertController](https://github.com/GJGroup/GJAlertController)| 同上
-[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
-***
-
 
 
 
