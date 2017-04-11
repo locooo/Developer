@@ -1,6 +1,11 @@
 # 目录
 * [Webs](#Webs_Collection)
 * [Swift](#Swift_learning)
+  * [1.1 弹出框](#弹出框Swift)
+  * [1.2 刷新和更多](#刷新和更多Swift)
+  * [1.3 网络层和数据层](#网络层和数据层Swift)
+  * [1.4 UI布局](#UI布局Swift)
+  * [1.4 其他](#其他Swift)
 * [OC](#OC_learning)
   * [1.1 弹出框](#弹出框OC)
   * [1.2 刷新和更多](#刷新和更多OC)
@@ -32,11 +37,42 @@
 
 
 ## <a id="Swift_learning"></a>Swift
+
+#### <a id="弹出框Swift"></a>1.1 弹出框
+库名称 | 功能简介
+------- | -------
+[PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert)|AlterView和actionSheet
+[SweetAlert](https://github.com/codestergit/SweetAlert-iOS)| AlterView
+[PMAlertController](https://github.com/Codeido/PMAlertController)| AlterView
+[PKHUD](https://github.com/pkluz/PKHUD)|HUD菊花
+
+#### <a id="刷新和更多Swift"></a>1.2 刷新和更多
+库名称 | 功能简介
+------- | -------
+[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|皮筋弹性下拉刷新控件
+没有比较满意和通用的 可以使用OC版本的MJRefresh混编
+
+#### <a id="网络层和数据层Swift"></a>1.3 网络层和数据层
+库名称 | 功能简介
+------- | -------
+[Alamofire](https://github.com/Alamofire/Alamofire)|和AFNetWorking一个地位
+[Moya](https://github.com/Moya/Moya)|在Alamofire的基础上又封装了一层
+[ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)| JSON<—>模型
+[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| 用于处理Swift中的JSON数据的更好方法
+
+
+#### <a id="UI布局Swift"></a>1.4 UI布局
+库名称 | 功能简介
+------- | -------
+[Snapkit](https://github.com/SnapKit/SnapKit)|从OC的 Masonry演变而来
+[Neon](https://github.com/mamaral/Neon)|是一个Swift上另辟蹊径的布局库,可以动态布局
+[Cartography](https://github.com/robb/Cartography)|autolayout布局
+[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)|一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应
+
+#### <a id="其他Swift"></a>1.4 其他
 库名称 | 功能简介
 ------- | -------
 [SwiftGuide](https://github.com/ipader/SwiftGuide) | 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排
-[Alamofire](https://github.com/Alamofire/Alamofire)|如在OC中使用AFNetworking
-[Moya](https://github.com/Moya/Moya)|在Alamofire的基础上又封装了一层
 [MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning)|一步一步学Swift
 [Transporter](https://github.com/nghialv/Transporter) | 短小、精悍、易用的多文件（并发或顺序）上传和下载传输库。还支持后台运行、传输进程跟踪、暂停/续传/取消/重试控制等功能
 [ExSwift](https://github.com/pNre/ExSwift)|包含一组标准类型和类的Swift扩展
@@ -48,11 +84,7 @@
 [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)|扩展实现 UILabel 触控事件针对
 [CVCalendar](https://github.com/Mozharovsky/CVCalendar) | 日历控件 iOS8+
 [Eureka](https://github.com/xmartlabs/Eureka)|构建复杂表单的库
-[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|皮筋弹性下拉刷新控件
-[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| 用于处理Swift中的JSON数据的更好方法
 [RxSwift](https://github.com/ReactiveX/RxSwift)|MVVM 类似ReactiveCocoa 不过是Swift版本
-[Neon](https://github.com/mamaral/Neon)|是一个Swift上另辟蹊径的布局库
-[Snapkit](https://github.com/SnapKit/SnapKit)|从OC的 Masonry 演变而来 布局库
 [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|操作NSUserDefaults很麻烦,用它很少代码就可使用
 [LiquidLoader](https://github.com/yoavlt/LiquidLoader)|蛮好看的加载组件
 [Blurable](https://github.com/FlexMonkey/Blurable)|任意View模糊
@@ -67,12 +99,10 @@
 [Surge](https://github.com/mattt/Surge)|可以快速处理复杂的数学、语音以及图像信号
 [Dollar.swift](https://github.com/ankurp/Dollar.swift)|提供了有用的函数式编程辅助方法，无需扩展任何内置对象。Dollar类似于Lo-Dash或者Javascript中的Underscore。
 [HanekeSwift](https://github.com/Haneke/HanekeSwift)|Swift 编写的轻量级 iOS 通用缓存
-[Cartography](https://github.com/robb/Cartography)|autolayout布局 其他几个应该也知道就不提了
 [Instructions](https://github.com/ephread/Instructions)|app用户指引用
 [MaterialKit](https://github.com/CosmicMind/MaterialKit)| MaterialDesign框架, 拥有多种漂亮的动画效果和样式。view的一个动画 包括imageView Button label等
 [ChineseSubdivisionsPicker](https://github.com/huajiahen/ChineseSubdivisionsPicker)|中国行政区划选择器
 [CardAnimation](https://github.com/seedante/CardAnimation)|卡片动画
-[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|下拉动画
 [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)|崩塌为小方块动画效果演示
 [LiquidLoader](https://github.com/yoavlt/LiquidLoader)|粘性的加载动画
 [EasyAnimation](https://github.com/icanzilb/EasyAnimation)|动画简单使用
