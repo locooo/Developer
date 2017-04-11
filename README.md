@@ -2,8 +2,9 @@
 * [Webs](#Webs_Collection)
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
-  * [弹出框](#弹出框OC)
-  * [其他](#Other_OCOC)
+  * [1.1 弹出框](#弹出框OC)
+  * [1.2 刷新和更多](#刷新和更多OC)
+  * [1.3 其他](#其他OC)
 * [IWatch](#Apple_Watch)
 * [DataStore](#Locooo_dataStore)
 * [Tools](#Open_Tools)
@@ -89,15 +90,23 @@
 
 
 ## <a id="OC_learning"></a>OC
+
 #### <a id="弹出框OC"></a>1.1 弹出框
 库名称 | 功能简介
 ------- | -------
 [TBAlertController](https://github.com/ThePantsThief/TBAlertController)|UIAlertController, UIAlertView, and UIActionSheet支出iOS7
 [GJAlertController](https://github.com/GJGroup/GJAlertController)| 同上
 [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
-***
 
-#### <a id="Other_OC"></a>1.2 其他
+#### <a id="刷新和更多OC"></a>1.2 刷新和更多
+库名称 | 功能简介
+------- | -------
+[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) | 一个好玩的下拉刷新动画 可自定义同类型
+[ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl/tree/master/ODRefreshControl)|如同系统自带的刷新框架,弹性小球
+[PullToBounce](https://github.com/entotsu/PullToBounce)|类似百度外卖的刷新
+[MJRefresh](https://github.com/CoderMJLee/MJRefresh)|下拉和加载更多
+
+#### <a id="其他OC"></a>1.3 其他
 库名称 | 功能简介
 ------- | -------
 [trip-to-iOS](https://github.com/Aufree/trip-to-iOS) | 包括学习视频,个人博客,社区等
@@ -117,9 +126,6 @@
 [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 聊天界面模板
 [VENTouchLock](https://github.com/venmo/VENTouchLock) | Touch ID的使用
 [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) | AsyncDisplayKit包括一些强力的组件：ASDisplayNode. UIView的副本 —一个子类，用来自定义node。ASControlNode. 类似于UIControl —用来制作按钮的子类。ASImageNode. 类似于UIImageView —异步的解码图像资源。ASTextNode. 类似于UITextView — 基于TextKit构建，支持富文本的全部特性。ASTableView. UITableView子类，用于支持node。
-[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) | 一个好玩的下拉刷新动画 可自定义同类型
-[ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl/tree/master/ODRefreshControl)|如同系统自带的刷新框架,弹性小球
-[PullToBounce](https://github.com/entotsu/PullToBounce)|类似百度外卖的刷新
 [Onboard](https://github.com/mamaral/Onboard) | 引导页面
 [GPUImage](https://github.com/BradLarson/GPUImage)|它利用GPU，使在图片和视频上应用不同的效果和滤镜变得非常的容易，同时它还拥有出色的性能，并且它的性能要比苹果内置的相关APIs出色
 [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明
