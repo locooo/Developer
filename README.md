@@ -213,6 +213,7 @@
 [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于iOS的音视频播放器SDK可高度定制化和二次开发,支持RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|导航栏转场以及当push或者pop的时候使动画效果更加顺滑的通用库,并且同时支持竖屏和横屏
 [TBAlertController](https://github.com/ThePantsThief/TBAlertController)|UIAlertController, UIAlertView, and UIActionSheet支出iOS7
+[GJAlertController)](https://github.com/GJGroup/GJAlertController)|同上
 
 
 
