@@ -2,6 +2,7 @@
 * [Webs](#Webs_Collection)
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
+  * [UI-弹出框](#弹出框)
 * [IWatch](#Apple_Watch)
 * [DataStore](#Locooo_dataStore)
 * [Tools](#Open_Tools)
@@ -60,7 +61,7 @@
 [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|浮动操作按钮
 [Splitflap](https://github.com/yannickl/Splitflap)|文字翻转效果
 [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)|带动画效果的tabbar
-[APNGKit](https://github.com/onevcat/APNGKit)|支持下载和显示 类似gif的APNG格式的动图,效果显示比gif好 
+[APNGKit](https://github.com/onevcat/APNGKit)|支持下载和显示 类似gif的APNG格式的动图,效果显示比gif好
 [Surge](https://github.com/mattt/Surge)|可以快速处理复杂的数学、语音以及图像信号
 [Dollar.swift](https://github.com/ankurp/Dollar.swift)|提供了有用的函数式编程辅助方法，无需扩展任何内置对象。Dollar类似于Lo-Dash或者Javascript中的Underscore。
 [HanekeSwift](https://github.com/Haneke/HanekeSwift)|Swift 编写的轻量级 iOS 通用缓存
@@ -71,7 +72,7 @@
 [CardAnimation](https://github.com/seedante/CardAnimation)|卡片动画
 [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|下拉动画
 [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)|崩塌为小方块动画效果演示
-[LiquidLoader](https://github.com/yoavlt/LiquidLoader)|粘性的加载动画 
+[LiquidLoader](https://github.com/yoavlt/LiquidLoader)|粘性的加载动画
 [EasyAnimation](https://github.com/icanzilb/EasyAnimation)|动画简单使用
 [PhotoBrowser](https://github.com/CharlinFeng/PhotoBrowser)|照片浏览器
 [ImagePickerSheetController](https://github.com/larcus94/ImagePickerSheetController)|类似iMessage的图片选择
@@ -81,7 +82,6 @@
 [Spring](https://github.com/MengTo/Spring)|动画的封装,支持Xib和纯代码
 [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary)|利用iOS 7 的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果
 [folding-cell](https://github.com/Ramotion/folding-cell)|可折叠的TableviewCell
-
 
 
 
@@ -112,7 +112,7 @@
 [PullToBounce](https://github.com/entotsu/PullToBounce)|类似百度外卖的刷新
 [Onboard](https://github.com/mamaral/Onboard) | 引导页面
 [GPUImage](https://github.com/BradLarson/GPUImage)|它利用GPU，使在图片和视频上应用不同的效果和滤镜变得非常的容易，同时它还拥有出色的性能，并且它的性能要比苹果内置的相关APIs出色
-[LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明 
+[LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | NavigationBar根据ScrollView ContentOfset.y变透明
 [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|能隐藏的NavigationBar
 [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) | 豆瓣的开源软件，DOUAudioStreamer 是 iOS 和 Mac 的基于核心音频的流媒体音频播放器
 [novocaine](https://github.com/alexbw/novocaine) | 应用于OSX和iOS的高性能音频框架
@@ -140,7 +140,7 @@
 [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification)|一个支持从 App 状态栏处以优雅的动画效果弹出文字通知的库
 [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)|webView加载进度
 [合集](https://github.com/iamdaiyuan/ios_top_1000)|1000 个 iOS 常用的库
-[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)|适合用来处理空的table view和collection 显示消息和按钮,事件 
+[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)|适合用来处理空的table view和collection 显示消息和按钮,事件
 [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)|日历
 [RETableViewManager](https://github.com/romaonthego/RETableViewManager)|RETableViewManager可以帮助你进行动态创建与管理table views。它给我们提供了预定义cells（bool类型、文本、日期等等——请看下面的截图），但是你还可以创建自定义views，并与默认视图一同使用
 [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker)|自动监听键盘高度
@@ -209,13 +209,20 @@
 [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|UICollectionView 瀑布流
 [JKCategories](https://github.com/shaojiankui/JKCategories)|各种Category
 [IBAnimatable](https://github.com/JakeLin/IBAnimatable)|是一个帮助我们在 Interface Builder 和 Swift Playground里面设计 UI, 交互, 导航模式, 换场和动画的开源库
-[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
+
 [IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser)|图片查看器
 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|图片查看器
 [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于iOS的音视频播放器SDK可高度定制化和二次开发,支持RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|导航栏转场以及当push或者pop的时候使动画效果更加顺滑的通用库,并且同时支持竖屏和横屏
+***
+##### <a id="弹出框"></a>1.1 弹出框
+库名称 | 功能简介
+------- | -------
 [TBAlertController](https://github.com/ThePantsThief/TBAlertController)|UIAlertController, UIAlertView, and UIActionSheet支出iOS7
-[GJAlertController)](https://github.com/GJGroup/GJAlertController)|同上
+[GJAlertController](https://github.com/GJGroup/GJAlertController)| 同上
+[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
+***
+
 
 
 
@@ -229,9 +236,9 @@
 库名称 | 功能简介
 ------- | -------
 [MMWormhole](https://github.com/mutualmobile/MMWormhole) | Iphone IWatch之间通信
- 
- 
- 
+
+
+
 ## <a id="Locooo_dataStore"></a>DataStore
 库名称 | 功能简介
 ------- | -------
@@ -270,7 +277,7 @@
 [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)|电台应用(Swift2.0)
 [MrCode](https://github.com/haolloyin/MrCode)|github iOS应用
 [MeituanDemo](https://github.com/zangqilong198812/MeituanDemo)|仿美团Demo(OC)
-[JFMeiTuan](https://github.com/tubie/JFMeiTuan)|仿美团Demo(OC) 
+[JFMeiTuan](https://github.com/tubie/JFMeiTuan)|仿美团Demo(OC)
 [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)|仿知乎日报(Swift2.0)
 [CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode)|动画Demo(OC)
 [CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus)|CocoaChina客户端(Swift)
@@ -289,4 +296,3 @@
 名称 | 功能简介
 ------- | -------
 [gitignore](https://github.com/github/gitignore) | .gitignore 文件。这样，不必要的文件（用户设置，临时文件这些）都不会放进你的仓库里面。Github 已经给了我们 Objective-C 和 Swift 语言的模板
-
