@@ -2,7 +2,8 @@
 * [Webs](#Webs_Collection)
 * [Swift](#Swift_learning)
 * [OC](#OC_learning)
-  * [UI-弹出框](#弹出框)
+  * [弹出框](#弹出框OC)
+  * [其他](#其他OC)
 * [IWatch](#Apple_Watch)
 * [DataStore](#Locooo_dataStore)
 * [Tools](#Open_Tools)
@@ -215,7 +216,8 @@
 [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于iOS的音视频播放器SDK可高度定制化和二次开发,支持RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|导航栏转场以及当push或者pop的时候使动画效果更加顺滑的通用库,并且同时支持竖屏和横屏
 ***
-##### <a id="弹出框"></a>1.1 弹出框
+
+##### <a id="弹出框OC"></a>1.1 弹出框
 库名称 | 功能简介
 ------- | -------
 [TBAlertController](https://github.com/ThePantsThief/TBAlertController)|UIAlertController, UIAlertView, and UIActionSheet支出iOS7
