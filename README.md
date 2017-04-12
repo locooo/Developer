@@ -46,6 +46,7 @@
 [PMAlertController](https://github.com/Codeido/PMAlertController)| AlterView
 [XLActionController](https://github.com/xmartlabs/XLActionController)|可定制和可扩展的上拉菜单ActionSheet
 [PKHUD](https://github.com/pkluz/PKHUD)|HUD菊花
+[SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)|各式各样的提示信息
 
 #### <a id="刷新和更多Swift"></a>1.2 刷新和更多
 库名称 | 功能简介
@@ -132,6 +133,9 @@
 [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)|简单、实用路径可定进程条
 [Async](https://github.com/duemunk/Async)|简洁的后台执行代码封装库
 [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)|加密相关的帮助函数实现
+[Hero](https://github.com/lkzhao/Hero)|Hero是一个用于构建iOS视图控制器转换的库。它在UIKit的繁琐的转换API之上提供了一个层。使自定义过渡对于开发人员来说是一个容易的任务。
+[Stellar](https://github.com/AugustRush/Stellar)|酷炫的物理动效库
+[Macaw](https://github.com/exyte/Macaw)|一款功能强大且易于使用的矢量图形库
 
 ## <a id="OC_learning"></a>OC
 
