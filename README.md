@@ -30,7 +30,7 @@
 [http://www.ioscookies.com/](http://www.ioscookies.com/) | 外国友人纯手动整理的 Swift 第三方库集合
 [http://iosdevelopertips.com/](http://iosdevelopertips.com/)|iOS开发相关教程和技巧
 [iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)|百度Hi团队 iOS 技术周报
-
+[Hue](https://github.com/hyperoslo/Hue)|16进制转颜色
 
 
 
@@ -44,13 +44,14 @@
 [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert)|AlterView和actionSheet
 [SweetAlert](https://github.com/codestergit/SweetAlert-iOS)| AlterView
 [PMAlertController](https://github.com/Codeido/PMAlertController)| AlterView
+[XLActionController](https://github.com/xmartlabs/XLActionController)|可定制和可扩展的上拉菜单ActionSheet
 [PKHUD](https://github.com/pkluz/PKHUD)|HUD菊花
 
 #### <a id="刷新和更多Swift"></a>1.2 刷新和更多
 库名称 | 功能简介
 ------- | -------
 [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|皮筋弹性下拉刷新控件
-没有比较满意和通用的 可以使用OC版本的MJRefresh混编
+[pull-to-refresh](https://github.com/eggswift/pull-to-refresh)|使用方便的下拉刷新和加载更多组件。通过一个UIScrollView的扩展，可以轻松为UIScrollView的所有子类添加下拉刷新功能。 如果你想定制组件的UI样式，只要实现指定的协议方法即可
 
 #### <a id="网络层和数据层Swift"></a>1.3 网络层和数据层
 库名称 | 功能简介
@@ -87,9 +88,7 @@
 [RxSwift](https://github.com/ReactiveX/RxSwift)|MVVM 类似ReactiveCocoa 不过是Swift版本
 [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|操作NSUserDefaults很麻烦,用它很少代码就可使用
 [LiquidLoader](https://github.com/yoavlt/LiquidLoader)|蛮好看的加载组件
-[Blurable](https://github.com/FlexMonkey/Blurable)|任意View模糊
 [Proposer](https://github.com/nixzhu/Proposer)|它能以单个 API 处理 iOS 上的权限请求
-[YYWebImage]()|YYWebImage 是一个异步图片加载框架 (YYKit 组件之一).其设计目的是试图替代 SDWebImage、PINRemoteImageFLAnimatedImage 等开源框架，它支持这些开源框架的大部分功能，同时增加了大量新特性、并且有不小的性能提升。实现了 WebP/APNG/GIF 动图的解码和播放。
 [Kingfisher](https://github.com/onevcat/Kingfisher)|一个轻量级的缓存图片的框架
 [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)|萌萌的按钮动画
 [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|浮动操作按钮
@@ -100,7 +99,8 @@
 [Dollar.swift](https://github.com/ankurp/Dollar.swift)|提供了有用的函数式编程辅助方法，无需扩展任何内置对象。Dollar类似于Lo-Dash或者Javascript中的Underscore。
 [HanekeSwift](https://github.com/Haneke/HanekeSwift)|Swift 编写的轻量级 iOS 通用缓存
 [Instructions](https://github.com/ephread/Instructions)|app用户指引用
-[MaterialKit](https://github.com/CosmicMind/MaterialKit)| MaterialDesign框架, 拥有多种漂亮的动画效果和样式。view的一个动画 包括imageView Button label等
+[Gecco](https://github.com/yukiasai/Gecco)|app用户指引用
+[MaterialKit](https://github.com/CosmicMind/MaterialKit)|MaterialDesign框架,拥有多种漂亮的动画效果和样式。view的一个动画 包括imageView Button label等
 [ChineseSubdivisionsPicker](https://github.com/huajiahen/ChineseSubdivisionsPicker)|中国行政区划选择器
 [CardAnimation](https://github.com/seedante/CardAnimation)|卡片动画
 [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)|崩塌为小方块动画效果演示
@@ -112,12 +112,17 @@
 [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)|Swifi转场动画的封装
 [LBXScan](https://github.com/MxABC/LBXScan)|二维码等
 [Spring](https://github.com/MengTo/Spring)|动画的封装,支持Xib和纯代码
-[VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary)|利用iOS 7 的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果
+[VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary)|利用iOS7的新特性实现一系列视图切换动画，比如折叠切换、爆炸切换、卡片式切换、淡入淡出以及三维切换等10种效果
 [folding-cell](https://github.com/Ramotion/folding-cell)|可折叠的TableviewCell
-
-
-
-
+[KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView)|TextView加Placeholder
+[LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)|能够实现文字变形动画效果的Label
+[ios-charts](https://github.com/danielgindi/ios-charts)| 一个美丽MPAndroidChart的IOS版本.-用于iOS应用的美丽图表！作者已经使用swift重写
+[Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView)|自适应、可定制滚动曲（折）线图表库
+[ESTabBarController](https://github.com/eggswift/ESTabBarController)|swift高度自定义TabBarController，支持自定义TabBarItem样式或添加动画,包括中间是凸起按钮的tabBar
+[DateHelper](https://github.com/melvitax/DateHelper)|时间处理
+[Timepiece](https://github.com/naoty/Timepiece)|时间处理
+[PromiseKit](https://github.com/mxcl/PromiseKit)|PromiseKit是一款swift，编写的支持iOS，macOS，tvOS，watchOS等多平台的轻量级异步编程库，同时 PromiseKit完美的支持了Objective-C桥接。
+[SQLite.swift](https://github.com/stephencelis/SQLite.swift)|
 
 ## <a id="OC_learning"></a>OC
 
@@ -208,7 +213,6 @@
 [JSPatch](https://github.com/bang590/JSPatch)| 使用Objective-C运行时桥接Objective-C和Javascript。你可以只包括一个此库,就可以通过JavaScript调用Objective-C中的任何类和方法。 JSPatch一般用于动态修复iOS应用程序
 [JBChartView](https://github.com/Jawbone/JBChartView)| 基于iOS的用于线路和条形图的图表库。
 [ios-charts](https://github.com/danielgindi/ios-charts)| 一个美丽MPAndroidChart的IOS版本.- 用于iOS应用的美丽图表！
-[PromiseKit](https://github.com/mxcl/PromiseKit)|iOS 开发异步功能
 [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)|含有许多工具套件，以在iOS上显示进度信息
 [LLRiseTabBar](https://github.com/NoCodeNoWife/LLRiseTabBar-iOS)|中间是突出按钮的TabBar
 [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth)|蓝牙使用
@@ -259,6 +263,7 @@
 [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|图片查看器
 [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于iOS的音视频播放器SDK可高度定制化和二次开发,支持RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|导航栏转场以及当push或者pop的时候使动画效果更加顺滑的通用库,并且同时支持竖屏和横屏
+[VTMagic](https://github.com/tianzhuo112/VTMagic)|类似网易、腾讯等应用的菜单分页组件
 ***
 
 
