@@ -122,7 +122,7 @@
 [DateHelper](https://github.com/melvitax/DateHelper)|时间处理
 [Timepiece](https://github.com/naoty/Timepiece)|时间处理
 [PromiseKit](https://github.com/mxcl/PromiseKit)|PromiseKit是一款swift，编写的支持iOS，macOS，tvOS，watchOS等多平台的轻量级异步编程库，同时 PromiseKit完美的支持了Objective-C桥接。
-[SQLite.swift](https://github.com/stephencelis/SQLite.swift)|
+[SQLite.swift](https://github.com/stephencelis/SQLite.swift)|类似OC中FMDB
 
 ## <a id="OC_learning"></a>OC
 
