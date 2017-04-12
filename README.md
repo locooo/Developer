@@ -59,10 +59,16 @@
 [Alamofire](https://github.com/Alamofire/Alamofire)|和AFNetWorking一个地位
 [Moya](https://github.com/Moya/Moya)|在Alamofire的基础上又封装了一层
 [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)| JSON<—>模型
-[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| 用于处理Swift中的JSON数据的更好方法
+[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| 用于处理Swift中的JSON数据的更好方法,自动替你完成了可选值的拆包。
+[SQLite.swift](https://github.com/stephencelis/SQLite.swift)|类似OC中FMDB
+[SugarRecord](https://github.com/carambalabs/SugarRecord)|基于CoreData与Realm的好用封装
+[PermissionScope](https://github.com/nickoneill/PermissionScope)|为了向用户巧妙地请求权限。它不只包含简单的权限请求UI，还有统一的权限API可以告诉你任意给定的系统权限的状态，当然也可以轻松地请求它们
+[SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|UserDefaults的封装
 
 
-#### <a id="UI布局Swift"></a>1.5 UI布局
+
+
+#### <a id="UI布局Swift"></a>1.4 UI布局
 库名称 | 功能简介
 ------- | -------
 [Snapkit](https://github.com/SnapKit/SnapKit)|从OC的 Masonry演变而来
@@ -70,7 +76,7 @@
 [Cartography](https://github.com/robb/Cartography)|autolayout布局
 [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)|一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应
 
-#### <a id="其他Swift"></a>1.4 其他
+#### <a id="其他Swift"></a>1.5 其他
 库名称 | 功能简介
 ------- | -------
 [SwiftGuide](https://github.com/ipader/SwiftGuide) | 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排
@@ -93,8 +99,8 @@
 [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)|萌萌的按钮动画
 [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|浮动操作按钮
 [Splitflap](https://github.com/yannickl/Splitflap)|文字翻转效果
-[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)|带动画效果的tabbar
 [APNGKit](https://github.com/onevcat/APNGKit)|支持下载和显示 类似gif的APNG格式的动图,效果显示比gif好
+[Gifu](https://github.com/kaishin/gifu)|高性能GIF显示类库
 [Surge](https://github.com/mattt/Surge)|可以快速处理复杂的数学、语音以及图像信号
 [Dollar.swift](https://github.com/ankurp/Dollar.swift)|提供了有用的函数式编程辅助方法，无需扩展任何内置对象。Dollar类似于Lo-Dash或者Javascript中的Underscore。
 [HanekeSwift](https://github.com/Haneke/HanekeSwift)|Swift 编写的轻量级 iOS 通用缓存
@@ -119,10 +125,13 @@
 [ios-charts](https://github.com/danielgindi/ios-charts)| 一个美丽MPAndroidChart的IOS版本.-用于iOS应用的美丽图表！作者已经使用swift重写
 [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView)|自适应、可定制滚动曲（折）线图表库
 [ESTabBarController](https://github.com/eggswift/ESTabBarController)|swift高度自定义TabBarController，支持自定义TabBarItem样式或添加动画,包括中间是凸起按钮的tabBar
+[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)|带动画效果的tabbar,也可以有凸起的中间按钮
 [DateHelper](https://github.com/melvitax/DateHelper)|时间处理
 [Timepiece](https://github.com/naoty/Timepiece)|时间处理
 [PromiseKit](https://github.com/mxcl/PromiseKit)|PromiseKit是一款swift，编写的支持iOS，macOS，tvOS，watchOS等多平台的轻量级异步编程库，同时 PromiseKit完美的支持了Objective-C桥接。
-[SQLite.swift](https://github.com/stephencelis/SQLite.swift)|类似OC中FMDB
+[KYCircularProgress](https://github.com/kentya6/KYCircularProgress)|简单、实用路径可定进程条
+[Async](https://github.com/duemunk/Async)|简洁的后台执行代码封装库
+[CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)|加密相关的帮助函数实现
 
 ## <a id="OC_learning"></a>OC
 
