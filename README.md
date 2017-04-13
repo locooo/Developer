@@ -97,7 +97,7 @@
 [CVCalendar](https://github.com/Mozharovsky/CVCalendar) | 日历控件 iOS8+
 [Eureka](https://github.com/xmartlabs/Eureka)|构建复杂表单的库
 [RxSwift](https://github.com/ReactiveX/RxSwift)|MVVM 类似ReactiveCocoa 不过是Swift版本
-[RxSwift-最践佳实]|(https://github.com/ipader/SwiftGuide/wiki/RxSwift-最践佳实)|最践佳实
+[RxSwift-最佳实践](https://github.com/ipader/SwiftGuide/wiki/RxSwift-最践佳实)|RxSwift介绍使用,技巧
 [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|操作NSUserDefaults很麻烦,用它很少代码就可使用
 [LiquidLoader](https://github.com/yoavlt/LiquidLoader)|蛮好看的加载组件
 [Proposer](https://github.com/nixzhu/Proposer)|它能以单个 API 处理 iOS 上的权限请求
