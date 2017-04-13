@@ -47,6 +47,7 @@
 [XLActionController](https://github.com/xmartlabs/XLActionController)|可定制和可扩展的上拉菜单ActionSheet
 [PKHUD](https://github.com/pkluz/PKHUD)|HUD菊花
 [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)|各式各样的提示信息
+[KYCircularProgress](https://github.com/kentya6/KYCircularProgress)|简单、实用路径可定进程条
 
 #### <a id="刷新和更多Swift"></a>1.2 刷新和更多
 库名称 | 功能简介
@@ -58,14 +59,16 @@
 库名称 | 功能简介
 ------- | -------
 [Alamofire](https://github.com/Alamofire/Alamofire)|和AFNetWorking一个地位
+[RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire)|为Alamofire提供函数响应式（FRP）调用接口
 [Moya](https://github.com/Moya/Moya)|在Alamofire的基础上又封装了一层
 [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper)| JSON<—>模型
+[AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)|Alamofire针对ObjectMapper的扩展
 [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)| 用于处理Swift中的JSON数据的更好方法,自动替你完成了可选值的拆包。
+[handyjson](https://github.com/alibaba/HandyJSON)|HandyJSON是一个用于Swift语言中的JSON序列化/反序列化库。
+[SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator)|JSON生成模型文件
 [SQLite.swift](https://github.com/stephencelis/SQLite.swift)|类似OC中FMDB
 [SugarRecord](https://github.com/carambalabs/SugarRecord)|基于CoreData与Realm的好用封装
-[PermissionScope](https://github.com/nickoneill/PermissionScope)|为了向用户巧妙地请求权限。它不只包含简单的权限请求UI，还有统一的权限API可以告诉你任意给定的系统权限的状态，当然也可以轻松地请求它们
 [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|UserDefaults的封装
-
 
 
 
@@ -93,6 +96,7 @@
 [CVCalendar](https://github.com/Mozharovsky/CVCalendar) | 日历控件 iOS8+
 [Eureka](https://github.com/xmartlabs/Eureka)|构建复杂表单的库
 [RxSwift](https://github.com/ReactiveX/RxSwift)|MVVM 类似ReactiveCocoa 不过是Swift版本
+[RxSwift-最践佳实]|(https://github.com/ipader/SwiftGuide/wiki/RxSwift-最践佳实)|最践佳实
 [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|操作NSUserDefaults很麻烦,用它很少代码就可使用
 [LiquidLoader](https://github.com/yoavlt/LiquidLoader)|蛮好看的加载组件
 [Proposer](https://github.com/nixzhu/Proposer)|它能以单个 API 处理 iOS 上的权限请求
@@ -130,12 +134,23 @@
 [DateHelper](https://github.com/melvitax/DateHelper)|时间处理
 [Timepiece](https://github.com/naoty/Timepiece)|时间处理
 [PromiseKit](https://github.com/mxcl/PromiseKit)|PromiseKit是一款swift，编写的支持iOS，macOS，tvOS，watchOS等多平台的轻量级异步编程库，同时 PromiseKit完美的支持了Objective-C桥接。
-[KYCircularProgress](https://github.com/kentya6/KYCircularProgress)|简单、实用路径可定进程条
 [Async](https://github.com/duemunk/Async)|简洁的后台执行代码封装库
 [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)|加密相关的帮助函数实现
 [Hero](https://github.com/lkzhao/Hero)|Hero是一个用于构建iOS视图控制器转换的库。它在UIKit的繁琐的转换API之上提供了一个层。使自定义过渡对于开发人员来说是一个容易的任务。
 [Stellar](https://github.com/AugustRush/Stellar)|酷炫的物理动效库
 [Macaw](https://github.com/exyte/Macaw)|一款功能强大且易于使用的矢量图形库
+[PermissionScope](https://github.com/nickoneill/PermissionScope)|为了向用户巧妙地请求权限。它不只包含简单的权限请求UI，还有统一的权限API可以告诉你任意给定的系统权限的状态，当然也可以轻松地请求它们
+[Permission](https://github.com/delba/Permission)|一个统一的API来请求iOS上的权限
+[RxPermission](https://github.com/sunshinejr/RxPermission)|通过绑定 RxSwift 实现的 Permission
+[FSCalendar](https://github.com/WenchaoD/FSCalendar)|一个包含objective-c和Swift版本的优秀的日历
+[SwipeCellKit](https://github.com/jerkoch/SwipeCellKit)|cell滑动多个处理按钮
+[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)|类似网易、腾讯等应用的菜单分页组件
+[PagingMenuController](https://github.com/kitasuke/PagingMenuController)|类似网易、腾讯等应用的分页视图控制器
+[XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets)|Xcode 代码块
+[SYKeyboardTextField](https://github.com/yushuyi/SYKeyboardTextField)|轻巧,简单,非侵入式的键盘附随输入框
+[swiftScan](https://github.com/MxABC/swiftScan)|丰富功能的二维码扫描组件及类库
+[BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift)|Swift 的一些有用的扩展
+
 
 ## <a id="OC_learning"></a>OC
 
@@ -144,7 +159,8 @@
 ------- | -------
 [TBAlertController](https://github.com/ThePantsThief/TBAlertController)|UIAlertController, UIAlertView, and UIActionSheet支出iOS7
 [GJAlertController](https://github.com/GJGroup/GJAlertController)| 同上
-[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet
+[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet 可定制类型
+[NoticeBar](https://github.com/qiuncheng/NoticeBar)|在NavigationBar、Tabbar、statusBar上显示提示信息，信息可包含文字和图片等，并且内置了四种提示消息
 
 #### <a id="刷新和更多OC"></a>1.2 刷新和更多
 库名称 | 功能简介
