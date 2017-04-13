@@ -38,7 +38,7 @@
 
 ## <a id="Swift_learning"></a>Swift
 
-#### <a id="弹出框Swift"></a> <font color=#BE1F1F size=4 face="微软雅黑">1.1 弹出框</font>
+#### <a id="弹出框Swift"></a> <font  color=red>1.1 弹出框</font>
 库名称 | 功能简介
 ------- | -------
 [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert)|AlterView和actionSheet
