@@ -45,6 +45,7 @@
 [SweetAlert](https://github.com/codestergit/SweetAlert-iOS)| AlterView
 [PMAlertController](https://github.com/Codeido/PMAlertController)| AlterView
 [XLActionController](https://github.com/xmartlabs/XLActionController)|可定制和可扩展的上拉菜单ActionSheet
+[OverlayController-Swift](https://github.com/snail-z/OverlayController-Swift)|各种蒙层弹框
 [PKHUD](https://github.com/pkluz/PKHUD)|HUD菊花
 [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)|各式各样的提示信息
 [KYCircularProgress](https://github.com/kentya6/KYCircularProgress)|简单、实用路径可定进程条
@@ -161,6 +162,7 @@
 [GJAlertController](https://github.com/GJGroup/GJAlertController)| 同上
 [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)| ActionSheet 可定制类型
 [NoticeBar](https://github.com/qiuncheng/NoticeBar)|在NavigationBar、Tabbar、statusBar上显示提示信息，信息可包含文字和图片等，并且内置了四种提示消息
+[LewPopupViewController](https://github.com/pljhonglu/LewPopupViewController)|自定义View设计弹出框
 
 #### <a id="刷新和更多OC"></a>1.2 刷新和更多
 库名称 | 功能简介
