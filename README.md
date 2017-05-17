@@ -86,13 +86,14 @@
 ------- | -------
 [SwiftGuide](https://github.com/ipader/SwiftGuide) | 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排
 [MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning)|一步一步学Swift
-[Transporter](https://github.com/nghialv/Transporter) | 短小、精悍、易用的多文件（并发或顺序）上传和下载传输库。还支持后台运行、传输进程跟踪、暂停/续传/取消/重试控制等功能
 [ExSwift](https://github.com/pNre/ExSwift)|包含一组标准类型和类的Swift扩展
+[SwifterSwift]https://github.com/SwifterSwift/SwifterSwift | Swift扩展
 [ShapeAnimation-Swift](https://github.com/rhcad/ShapeAnimation-Swift) | Swift  Layer动画
 [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) | iOS8的一些Demo
 [Kingfisher](https://github.com/onevcat/Kingfisher) |Swift版的SDWebImage
 [BubbleTransition](https://github.com/andreamazz/BubbleTransition)|present和dismiss转场动画
 [Nuke](https://github.com/kean/Nuke)|图片管理类库。可定制装载，缓存，滤镜及尺寸变换
+[Transporter](https://github.com/nghialv/Transporter) | 短小、精悍、易用的多文件（并发或顺序）上传和下载传输库。还支持后台运行、传输进程跟踪、暂停/续传/取消/重试控制等功能
 [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)|扩展实现 UILabel 触控事件针对
 [CVCalendar](https://github.com/Mozharovsky/CVCalendar) | 日历控件 iOS8+
 [Eureka](https://github.com/xmartlabs/Eureka)|构建复杂表单的库
@@ -151,7 +152,9 @@
 [SYKeyboardTextField](https://github.com/yushuyi/SYKeyboardTextField)|轻巧,简单,非侵入式的键盘附随输入框
 [swiftScan](https://github.com/MxABC/swiftScan)|丰富功能的二维码扫描组件及类库
 [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift)|Swift 的一些有用的扩展
-
+[EFQRCode](https://github.com/EyreFree/EFQRCode)|用 Swift 编写的用来生成和识别二维码的库，基于 CoreImage 进行开发
+生成：利用输入的水印图/图标等资源生成各种艺术二维码；
+识别：识别率比 iOS 原生二维码识别率更高。
 
 ## <a id="OC_learning"></a>OC
 
