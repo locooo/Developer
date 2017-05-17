@@ -87,7 +87,7 @@
 [SwiftGuide](https://github.com/ipader/SwiftGuide) | 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排
 [MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning)|一步一步学Swift
 [ExSwift](https://github.com/pNre/ExSwift)|包含一组标准类型和类的Swift扩展
-[SwifterSwift]https://github.com/SwifterSwift/SwifterSwift | Swift扩展
+[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) | Swift扩展
 [ShapeAnimation-Swift](https://github.com/rhcad/ShapeAnimation-Swift) | Swift  Layer动画
 [iOS8-Sampler](https://github.com/shu223/iOS8-Sampler) | iOS8的一些Demo
 [Kingfisher](https://github.com/onevcat/Kingfisher) |Swift版的SDWebImage
