@@ -154,6 +154,11 @@
 [swiftScan](https://github.com/MxABC/swiftScan)|丰富功能的二维码扫描组件及类库
 [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift)|Swift 的一些有用的扩展
 [EFQRCode](https://github.com/EyreFree/EFQRCode)|用 Swift 编写的用来生成和识别二维码的库，基于 CoreImage 进行开发
+[DeviceKit]()|DeviceKit 是 UIDevice 的值类型替换。可轻松获取设备的信息.设备识别、设备系列检测、设备组检测、模拟器检测、电池状态、电池电量、Equatable
+
+
+
+
 
 ## <a id="OC_learning"></a>OC
 
@@ -255,7 +260,6 @@
 [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)|scocket通信
 [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)|轻松创建自动滚动导航栏
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|通知圆点(适用于任何View)
-[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|Cell侧滑出现多按钮
 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)|划动侧边展开按钮的Cell
 [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|滑动cell出现更多的操作按钮 Both
 [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView)|可展开的TableViewCell
