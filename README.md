@@ -102,6 +102,7 @@
 [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|操作NSUserDefaults很麻烦,用它很少代码就可使用
 [LiquidLoader](https://github.com/yoavlt/LiquidLoader)|蛮好看的加载组件
 [Proposer](https://github.com/nixzhu/Proposer)|它能以单个 API 处理 iOS 上的权限请求
+[PermissionScope](https://github.com/nickoneill/PermissionScope)|权限请求
 [Kingfisher](https://github.com/onevcat/Kingfisher)|一个轻量级的缓存图片的框架
 [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)|萌萌的按钮动画
 [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|浮动操作按钮
@@ -342,6 +343,7 @@
 [Perfect](https://github.com/PerfectlySoft/Perfect)|用Swift实现的应用服务器，自带 web 开发框架及支持 REST
 [DaiMethodTracing](https://github.com/DaidoujiChen/DaiMethodTracing)|检查⓵传参是不是正确, ⓶返回值是否正确⓷执行时间
 [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)|显示FPS状态在iOS状态栏
+[class-dump]()|
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
