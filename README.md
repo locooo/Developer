@@ -154,8 +154,6 @@
 [swiftScan](https://github.com/MxABC/swiftScan)|丰富功能的二维码扫描组件及类库
 [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift)|Swift 的一些有用的扩展
 [EFQRCode](https://github.com/EyreFree/EFQRCode)|用 Swift 编写的用来生成和识别二维码的库，基于 CoreImage 进行开发
-生成：利用输入的水印图/图标等资源生成各种艺术二维码；
-识别：识别率比 iOS 原生二维码识别率更高。
 
 ## <a id="OC_learning"></a>OC
 
