@@ -31,6 +31,7 @@
 [http://iosdevelopertips.com/](http://iosdevelopertips.com/)|iOS开发相关教程和技巧
 [iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)|百度Hi团队 iOS 技术周报
 [Hue](https://github.com/hyperoslo/Hue)|16进制转颜色
+[awesome-arkit](https://github.com/olucurious/awesome-arkit)|ARKit项目
 
 
 
