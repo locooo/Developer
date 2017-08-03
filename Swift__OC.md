@@ -156,7 +156,8 @@
 [swiftScan](https://github.com/MxABC/swiftScan)|丰富功能的二维码扫描组件及类库
 [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift)|Swift 的一些有用的扩展
 [EFQRCode](https://github.com/EyreFree/EFQRCode)|用 Swift 编写的用来生成和识别二维码的库，基于 CoreImage 进行开发
-[DeviceKit]()|DeviceKit 是 UIDevice 的值类型替换。可轻松获取设备的信息.设备识别、设备系列检测、设备组检测、模拟器检测、电池状态、电池电量、Equatable
+[DeviceKit](https://github.com/dennisweissmann/DeviceKit)|DeviceKit 是 UIDevice 的值类型替换。可轻松获取设备的信息.设备识别、设备系列检测、设备组检测、模拟器检测、电池状态、电池电量、Equatable
+[ET_NavBarTransparent](https://github.com/EnderTan/ETNavBarTransparent/tree/master/ETNavBarTransparentDemo)|导航栏的平滑显示和隐藏,在滑动过程中改变导航栏的透明度
 
 
 
