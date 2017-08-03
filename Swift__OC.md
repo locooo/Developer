@@ -20,6 +20,7 @@
 ## <a id="Webs_Collection"></a>Webs
 地址 | 简介
 ------- | -------
+[www.opendigg.com](http://www.opendigg.com/)|最新的一些框架(各个平台)
 [ioscreator](https://github.com/ioscreator/ioscreator)|看到这个你应该笑了(Demo)
 [manong](https://github.com/nemoTyrant/manong)| 码农周刊整理
 [iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier)|开发技术前线 iOS项目
