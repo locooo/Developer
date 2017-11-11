@@ -33,6 +33,7 @@
 [iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)|百度Hi团队 iOS 技术周报
 [Hue](https://github.com/hyperoslo/Hue)|16进制转颜色
 [awesome-arkit](https://github.com/olucurious/awesome-arkit)|ARKit项目
+[study](https://github.com/ming1016/study)|一些iOS的内容讲解
 
 
 
@@ -158,8 +159,10 @@
 [EFQRCode](https://github.com/EyreFree/EFQRCode)|用 Swift 编写的用来生成和识别二维码的库，基于 CoreImage 进行开发
 [DeviceKit](https://github.com/dennisweissmann/DeviceKit)|DeviceKit 是 UIDevice 的值类型替换。可轻松获取设备的信息.设备识别、设备系列检测、设备组检测、模拟器检测、电池状态、电池电量、Equatable
 [ET_NavBarTransparent](https://github.com/EnderTan/ETNavBarTransparent/tree/master/ETNavBarTransparentDemo)|导航栏的平滑显示和隐藏,在滑动过程中改变导航栏的透明度
-
-
+[Digger](https://github.com/cornerAnt/Digger)|下载
+[VegaScroll](https://github.com/ApplikeySolutions/VegaScroll)|UICollectionView完全用Swif编写的轻量级动画流程布局
+[SkeletonView](https://github.com/Juanpe/SkeletonView)|类似简书等App页面数据加载时的View的显示
+[swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|各种算法 swift实现
 
 
 
