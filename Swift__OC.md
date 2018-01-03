@@ -10,6 +10,9 @@
   * [1.1 弹出框](#弹出框OC)
   * [1.2 刷新和更多](#刷新和更多OC)
   * [1.3 其他](#其他OC)
+* [AR_ML](#AR_ML_learning)
+  * [AR](#AR)
+  * [ML](#ML)
 * [IWatch](#Apple_Watch)
 * [DataStore](#Locooo_dataStore)
 * [Tools](#Open_Tools)
@@ -34,6 +37,8 @@
 [Hue](https://github.com/hyperoslo/Hue)|16进制转颜色
 [awesome-arkit](https://github.com/olucurious/awesome-arkit)|ARKit项目
 [study](https://github.com/ming1016/study)|一些iOS的内容讲解
+[iOS-tech-set](https://github.com/southpeak/iOS-tech-set)|iOS知识小集锦
+[handbook](https://github.com/jaywcjlove/handbook)|笔记/搜集/摘录/实践
 
 
 
@@ -164,7 +169,7 @@
 [SkeletonView](https://github.com/Juanpe/SkeletonView)|类似简书等App页面数据加载时的View的显示
 [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|各种算法 swift实现
 [macOS_Development_Tutorials_translation](https://github.com/DeveloperLx/macOS_Development_Tutorials_translation)|macOS开发
-[Chameleon](https://github.com/ViccAlexander/Chameleon)|iOS颜色框架（Obj-C＆Swift）
+
 
 ## <a id="OC_learning"></a>OC
 
@@ -307,14 +312,26 @@
 [PLPlayerKit](https://github.com/pili-engineering/PLPlayerKit)|适用于iOS的音视频播放器SDK可高度定制化和二次开发,支持RTMP, HTTP-FLV 和 HLS 直播流媒体播放
 [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|导航栏转场以及当push或者pop的时候使动画效果更加顺滑的通用库,并且同时支持竖屏和横屏
 [VTMagic](https://github.com/tianzhuo112/VTMagic)|类似网易、腾讯等应用的菜单分页组件
+[PYSearch](https://github.com/ko1o/PYSearch)|一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 app）风格的搜索控制器
+
+
 ***
 
 
 
+## <a id="AR_ML_learning"></a>AR_ML
+
+#### <a id="AR"></a> <font  color=red>AR</font>
+库名称 | 功能简介
+------- | -------
 
 
-
-
+***
+#### <a id="ML"></a> <font  color=red>ML</font>
+库名称 | 功能简介
+------- | -------
+[turicreate](https://github.com/apple/turicreate)|TuriCreate简化了定制机器学习模型的开发
+***
 
 
 ## <a id="Apple_Watch"></a>IWatch
