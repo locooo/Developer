@@ -169,6 +169,7 @@
 [SkeletonView](https://github.com/Juanpe/SkeletonView)|类似简书等App页面数据加载时的View的显示
 [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|各种算法 swift实现
 [macOS_Development_Tutorials_translation](https://github.com/DeveloperLx/macOS_Development_Tutorials_translation)|macOS开发
+[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)|ViewAnimator是一个以简单的方式构建复杂的iOS UIView动画的库。它为任何包含其他视图的视图提供了一行动画，如UITableView和UICollectionView及其单元格或UIStackView及其排列的子视图。
 
 
 ## <a id="OC_learning"></a>OC
