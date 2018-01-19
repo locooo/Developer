@@ -275,7 +275,6 @@
 [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)|划动侧边展开按钮的Cell
 [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|滑动cell出现更多的操作按钮 Both
 [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView)|可展开的TableViewCell
-[PSCarouselView](https://github.com/DeveloperPans/PSCarouselView)|图片轮播器
 [MMPopupView](https://github.com/adad184/MMPopupView)|弹出框系列
 [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|最低只需传两个数组即可完成主流App框架搭建
 [WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能
@@ -286,6 +285,7 @@
 [TYAlertController](https://github.com/12207480/TYAlertController)|弹出框 AlterView
 [SwipeView](https://github.com/nicklockwood/SwipeView)|轮播图
 [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)|轮播图
+[PSCarouselView](https://github.com/DeveloperPans/PSCarouselView)|图片轮播器
 [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer)|视频播放器
 [JFImagePickerController](https://github.com/johnil/JFImagePickerController)|高性能多选图片库
 [LxTabBadgePoint](https://github.com/DeveloperLx/LxTabBadgePoint)|小红点或其它标记的效果。Category写法，无需继承子类
