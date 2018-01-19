@@ -315,7 +315,10 @@
 [VTMagic](https://github.com/tianzhuo112/VTMagic)|类似网易、腾讯等应用的菜单分页组件
 [PYSearch](https://github.com/ko1o/PYSearch)|一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 app）风格的搜索控制器
 [LYEmptyView](https://github.com/yangli-dev/LYEmptyView)|iOS一行代码集成空白页面占位图（无数据、无网络占位图） emptyView-empty set-支持TableView、CollectionView、ScrollView
-
+[material-motion-swift](https://github.com/material-motion/material-motion-swift)|使用Core Animation构建响应运动的工具包
+[NotificationBanner]|(https://github.com/Daltron/NotificationBanner)|在iOS中显示高度可自定义的应用程序通知横幅的最简单的方法
+[SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView)|完全可配置的电子表格视图用户界面
+[Gemini](https://github.com/shoheiyokoyama/Gemini)|基于滚动的iOS动画框架
 ***
 
 
@@ -332,6 +335,7 @@
 库名称 | 功能简介
 ------- | -------
 [turicreate](https://github.com/apple/turicreate)|TuriCreate简化了定制机器学习模型的开发
+[Bender](https://github.com/xmartlabs/Bender)|利用 Bender，可以在 iOS 上轻松快速地制作神经网络，它使用了 TensorFlow 模型，是 MetalPerformanceShaders 上的一个抽象层
 ***
 
 
@@ -369,7 +373,8 @@
 [Perfect](https://github.com/PerfectlySoft/Perfect)|用Swift实现的应用服务器，自带 web 开发框架及支持 REST
 [DaiMethodTracing](https://github.com/DaidoujiChen/DaiMethodTracing)|检查⓵传参是不是正确, ⓶返回值是否正确⓷执行时间
 [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)|显示FPS状态在iOS状态栏
-[class-dump]()|
+[class-dump]()|。。。
+[](https://github.com/quicktype/quicktype-xcode)|JSON to model
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
