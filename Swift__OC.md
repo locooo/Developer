@@ -320,6 +320,7 @@
 [NotificationBanner]|(https://github.com/Daltron/NotificationBanner)|在iOS中显示高度可自定义的应用程序通知横幅的最简单的方法
 [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView)|完全可配置的电子表格视图用户界面
 [Gemini](https://github.com/shoheiyokoyama/Gemini)|基于滚动的iOS动画框架
+[ios-ntp](https://github.com/jbenet/ios-ntp)|NTP时间同步
 ***
 
 
