@@ -41,6 +41,7 @@
 [handbook](https://github.com/jaywcjlove/handbook)|笔记/搜集/摘录/实践
 [FCUUID](https://github.com/fabiocaccamo/FCUUID)| """唯一标识""
 [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者面试题集锦
+[iOS-Tips](https://github.com/awesome-tips/iOS-Tips)|iOS-Tips
 
 
 
