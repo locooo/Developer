@@ -40,6 +40,7 @@
 [iOS-tech-set](https://github.com/southpeak/iOS-tech-set)|iOS知识小集锦
 [handbook](https://github.com/jaywcjlove/handbook)|笔记/搜集/摘录/实践
 [FCUUID](https://github.com/fabiocaccamo/FCUUID)| """唯一标识""
+[iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者面试题集锦
 
 
 
