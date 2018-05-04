@@ -322,7 +322,7 @@
 [PYSearch](https://github.com/ko1o/PYSearch)|一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 app）风格的搜索控制器
 [LYEmptyView](https://github.com/yangli-dev/LYEmptyView)|iOS一行代码集成空白页面占位图（无数据、无网络占位图） emptyView-empty set-支持TableView、CollectionView、ScrollView
 [material-motion-swift](https://github.com/material-motion/material-motion-swift)|使用Core Animation构建响应运动的工具包
-[NotificationBanner]|(https://github.com/Daltron/NotificationBanner)|在iOS中显示高度可自定义的应用程序通知横幅的最简单的方法
+[NotificationBanner](https://github.com/Daltron/NotificationBanner)|在iOS中显示高度可自定义的应用程序通知横幅的最简单的方法
 [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView)|完全可配置的电子表格视图用户界面
 [Gemini](https://github.com/shoheiyokoyama/Gemini)|基于滚动的iOS动画框架
 [ios-ntp](https://github.com/jbenet/ios-ntp)|NTP时间同步
