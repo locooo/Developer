@@ -384,6 +384,9 @@
 [JPFPSStatus](https://github.com/joggerplus/JPFPSStatus)|显示FPS状态在iOS状态栏
 [class-dump]()|。。。
 [](https://github.com/quicktype/quicktype-xcode)|JSON to model
+[STCObfuscator](https://github.com/chenxiancai/STCObfuscator)|代码混淆
+[SiriusObfuscator](https://github.com/Polidea/SiriusObfuscator)|swift代码混淆
+[ios-class-guard](https://github.com/Polidea/ios-class-guard)|OC代码混淆
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
