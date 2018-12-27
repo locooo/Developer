@@ -388,6 +388,7 @@
 [SiriusObfuscator](https://github.com/Polidea/SiriusObfuscator)|swift代码混淆
 [ios-class-guard](https://github.com/Polidea/ios-class-guard)|OC代码混淆
 [ZMConfuse](https://github.com/kongcup/ZMConfuse)|文件代码混淆
+[quicktype-xcode](https://github.com/quicktype/quicktype-xcode)|json解析成swift model
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
