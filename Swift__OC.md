@@ -390,6 +390,7 @@
 [ios-class-guard](https://github.com/Polidea/ios-class-guard)|OC代码混淆
 [ZMConfuse](https://github.com/kongcup/ZMConfuse)|文件代码混淆
 [quicktype-xcode](https://github.com/quicktype/quicktype-xcode)|json解析成swift model
+[awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions)|Xcode扩展插件
 
 ## <a id="Open_App"></a>AppOpenSource
 名称 | 功能简介
