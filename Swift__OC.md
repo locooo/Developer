@@ -32,6 +32,7 @@
 [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)|iOS资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 [MyGithubMark](https://github.com/JanzTam/MyGithubMark)| 他人整理的
 [iOS和Mac开源资料](http://www.kancloud.cn/digest/ios-mac-study/84572) | 他人整理的
+[OS 第三方库](https://unordered.org/timelines/59ce4a2772801000)|他人整理的框架集合
 [http://www.ioscookies.com/](http://www.ioscookies.com/) | 外国友人纯手动整理的 Swift 第三方库集合
 [http://iosdevelopertips.com/](http://iosdevelopertips.com/)|iOS开发相关教程和技巧
 [iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)|百度Hi团队 iOS 技术周报
