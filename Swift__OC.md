@@ -30,6 +30,7 @@
 [iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier)|开发技术前线 iOS项目
 [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| 他人整理的一些iOS,Mac开源项目及库
 [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)|iOS资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
+[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily#ios)|GitHubDaily
 [MyGithubMark](https://github.com/JanzTam/MyGithubMark)| 他人整理的
 [iOS和Mac开源资料](http://www.kancloud.cn/digest/ios-mac-study/84572) | 他人整理的
 [OS 第三方库](https://unordered.org/timelines/59ce4a2772801000)|他人整理的框架集合
