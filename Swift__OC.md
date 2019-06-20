@@ -101,6 +101,7 @@
 ------- | -------
 [SwiftGuide](https://github.com/ipader/SwiftGuide) | 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排
 [MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning)|一步一步学Swift
+[SwiftUI](https://github.com/Juanpe/About-SwiftUI)|收集Apple和其他人发布的关于新框架SwiftUI的所有信息
 [ExSwift](https://github.com/pNre/ExSwift)|包含一组标准类型和类的Swift扩展
 [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) | Swift扩展
 [ShapeAnimation-Swift](https://github.com/rhcad/ShapeAnimation-Swift) | Swift  Layer动画
