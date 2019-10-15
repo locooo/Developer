@@ -335,6 +335,7 @@
 [ios-ntp](https://github.com/jbenet/ios-ntp)|NTP时间同步
 [iOSProject](iOS综合项目)|一些使用的App页面
 [DTCoreText](https://github.com/Cocoanetics/DTCoreText)|HTML+CSS 网页转成CoreText
+[XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd)|开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.
 ***
 
 
