@@ -1,7 +1,53 @@
 # 目录
-* [数据库](#Data)
+* [Webs](#Webs_Collection)
+* [Swift](#Swift_learning)
+  * [1.1 弹出框](#弹出框Swift)
+  * [1.2 刷新和更多](#刷新和更多Swift)
+  * [1.3 网络层和数据层](#网络层和数据层Swift)
+  * [1.4 UI布局](#UI布局Swift)
+  * [1.5 其他](#其他Swift)
+* [OC](#OC_learning)
+  * [1.1 弹出框](#弹出框OC)
+  * [1.2 刷新和更多](#刷新和更多OC)
+  * [1.3 其他](#其他OC)
+* [AR_ML](#AR_ML_learning)
+  * [AR](#AR)
+  * [ML](#ML)
+* [IWatch](#Apple_Watch)
+* [DataStore](#Locooo_dataStore)
+* [Tools](#Open_Tools)
+* [AppOpenSource](#Open_App)
+* [Git](#Git_learning)
+* [Front-end_development](#Front_end_development)
+  * [1.1 前端GUI 开发工具](#Front_end_development_Tool)
 ---
-## <a id="Data"></a>数据库
+## <a id="Webs_Collection"></a>Webs
 地址 | 简介
 ------- | -------
-[Hive](https://github.com/hivedb/hive)|Hive是一个用纯Dart编写的轻量级且功能强大的快速键值数据库
+[www.opendigg.com](http://www.opendigg.com/)|最新的一些框架(各个平台)
+[ioscreator](https://github.com/ioscreator/ioscreator)|看到这个你应该笑了(Demo)
+[Book-Recommend-Github](https://github.com/iOShuyang/Book-Recommend-Github)|他人收集的第三方的库
+[manong](https://github.com/nemoTyrant/manong)| 码农周刊整理
+[iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier)|开发技术前线 iOS项目
+[TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| 他人整理的一些iOS,Mac开源项目及库
+[awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)|iOS资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
+[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily#ios)|GitHubDaily
+[MyGithubMark](https://github.com/JanzTam/MyGithubMark)| 他人整理的
+[iOS和Mac开源资料](http://www.kancloud.cn/digest/ios-mac-study/84572) | 他人整理的
+[OS 第三方库](https://unordered.org/timelines/59ce4a2772801000)|他人整理的框架集合
+[http://www.ioscookies.com/](http://www.ioscookies.com/) | 外国友人纯手动整理的 Swift 第三方库集合
+[http://iosdevelopertips.com/](http://iosdevelopertips.com/)|iOS开发相关教程和技巧
+[iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)|百度Hi团队 iOS 技术周报
+[Hue](https://github.com/hyperoslo/Hue)|16进制转颜色
+[awesome-arkit](https://github.com/olucurious/awesome-arkit)|ARKit项目
+[study](https://github.com/ming1016/study)|一些iOS的内容讲解
+[iOS-tech-set](https://github.com/southpeak/iOS-tech-set)|iOS知识小集锦
+[handbook](https://github.com/jaywcjlove/handbook)|笔记/搜集/摘录/实践
+[FCUUID](https://github.com/fabiocaccamo/FCUUID)| """唯一标识""
+[iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者面试题集锦
+[iOS-Tips](https://github.com/awesome-tips/iOS-Tips)|iOS-Tips
+[awesome-wepy](https://github.com/aben1188/awesome-wepy)|微信小程序开发资源集锦
+[open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)|open-source-mac-os-apps
+
+
+
