@@ -48,6 +48,7 @@
 [iOS-Tips](https://github.com/awesome-tips/iOS-Tips)|iOS-Tips
 [awesome-wepy](https://github.com/aben1188/awesome-wepy)|微信小程序开发资源集锦
 [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)|open-source-mac-os-apps
+[appsight](https://www.appsight.io/)|国外流行SDK合集
 
 
 
