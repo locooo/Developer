@@ -10,6 +10,7 @@
 ------- | -------
 [awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn)|一些常用库等推荐
 [getwidget](https://www.getwidget.dev/)|一系列组件
+[awesome-flutter](https://asmcn.icopy.site/awesome/awesome-flutter/)|包括不仅仅flutter
 
 ## <a id="Database"></a>数据库
 地址 | 简介
