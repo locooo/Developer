@@ -183,6 +183,10 @@
 [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)|ViewAnimator是一个以简单的方式构建复杂的iOS UIView动画的库。它为任何包含其他视图的视图提供了一行动画，如UITableView和UICollectionView及其单元格或UIStackView及其排列的子视图。
 [TextPathView](https://github.com/totond/TextPathView)|把文字转化为路径动画然后展现出来的自定义控件
 [URLNavigator](https://github.com/devxoul/URLNavigator)|Swift路由跳转
+[IGListKit](https://github.com/Instagram/IGListKit)|用于构建快速灵活列表的数据驱动框架,基于CollectionView
+[Texture](https://github.com/TextureGroup/Texture)|异步渲染和布局引擎
+[DeviceKit](https://github.com/devicekit/DeviceKit)|设备信息
+[SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)|内购
 
 
 ## <a id="OC_learning"></a>OC
